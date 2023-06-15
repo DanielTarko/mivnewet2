@@ -1,232 +1,335 @@
+addPrize: INVALID_INPUT
+index is 3
+addCostumer: SUCCESS
+addPrize: SUCCESS
+making member 1
+index is 3
+its here 1
+makeMember: SUCCESS
+addPrize: SUCCESS
+index is 7
+addCostumer: SUCCESS
+getExpenses: 0
+addPrize: SUCCESS
+addPrize: SUCCESS
 newMonth: SUCCESS
-for user: 32
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-for user: 249
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-for user: 208
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-getExpenses: DOESNT_EXISTS
-for user: 249
-its own extra is 0
-total extra sum is 0
-makeMember: SUCCESS
-for user: 249
-its own extra is -0
-total extra sum is 0
-for user: 249
-total expenses: 0
-discount: 0
-getExpenses: 0
-isMember: False
-getExpenses: DOESNT_EXISTS
-getPhone: 3
-for user: 98
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
 putOnTop: SUCCESS
-addPrize: INVALID_INPUT
-makeMember: ALREADY_EXISTS
-isMember: False
-getPlace: column=8, hight=0
-getPlace: INVALID_INPUT
-for user: 214
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-isMember: False
-addPrize: INVALID_INPUT
-addPrize: INVALID_INPUT
+index is 3
 buyRecord: SUCCESS
-for user: 100
-its own extra is 0
-total extra sum is 0
+getPlace: column=9, hight=0
+index is 9
 addCostumer: SUCCESS
-for user: 214
-its own extra is 0
-total extra sum is 0
-makeMember: SUCCESS
-addPrize: INVALID_INPUT
 putOnTop: SUCCESS
-for user: 211
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-addPrize: SUCCESS
-makeMember: ALREADY_EXISTS
-makeMember: DOESNT_EXISTS
-makeMember: DOESNT_EXISTS
-addPrize: SUCCESS
-for user: 100
-its own extra is 0
-total extra sum is 0
-makeMember: SUCCESS
-isMember: False
-getExpenses: DOESNT_EXISTS
-putOnTop: SUCCESS
-for user: 10
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-getPlace: INVALID_INPUT
+index is 7
 buyRecord: SUCCESS
-for user: 117
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-for user: 10
-its own extra is 0
-total extra sum is 0
-makeMember: SUCCESS
-addPrize: SUCCESS
-getPlace: column=26, hight=0
-for user: 208
-its own extra is 0
-total extra sum is 0
-makeMember: SUCCESS
-for user: 100
-its own extra is -84
-total extra sum is 0
-for user: 100
-total expenses: 100
-discount: 0
 getExpenses: 100
+putOnTop: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=56, hight=0
+putOnTop: SUCCESS
+getPlace: column=53, hight=0
+making member 1
+index is 9
+its here 1
+makeMember: SUCCESS
+getPlace: column=85, hight=0
+index is 3
 buyRecord: SUCCESS
-getExpenses: DOESNT_EXISTS
-getPhone: 3
-addPrize: INVALID_INPUT
-for user: 98
-its own extra is 0
-total extra sum is 0
-makeMember: SUCCESS
-for user: 100
-its own extra is 0
-total extra sum is 0
-for user: 211
-its own extra is 0
-total extra sum is 0
-for user: 214
-its own extra is 0
-total extra sum is 0
-for user: 249
-its own extra is 0
-total extra sum is 0
-for user: 117
-its own extra is 0
-total extra sum is 0
-for user: 208
-its own extra is 0
-total extra sum is 0
-for user: 98
-its own extra is 0
-total extra sum is 0
-for user: 32
-its own extra is 0
-total extra sum is 0
-for user: 10
-its own extra is 0
-total extra sum is 0
-for user: 7
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-for user: 10
-its own extra is -0
-total extra sum is 0
-for user: 10
-total expenses: 0
-discount: 0
-getExpenses: 0
-for user: 100
-its own extra is 0
-total extra sum is 0
-for user: 100
-total expenses: 100
-discount: 0
+index is 9
+buyRecord: SUCCESS
 getExpenses: 100
-getPlace: column=12, hight=6
-putOnTop: DOESNT_EXISTS
-for user: 32
-its own extra is 0
-total extra sum is 0
+addPrize: SUCCESS
+index is 1
+addCostumer: SUCCESS
+addPrize: SUCCESS
+index is 6
+addCostumer: SUCCESS
+getExpenses: 100
+getExpenses: 200
+addPrize: SUCCESS
+getExpenses: 200
+index is 9
+buyRecord: DOESNT_EXISTS
+getPlace: column=65, hight=0
+addPrize: SUCCESS
+index is 6
+buyRecord: SUCCESS
+index is 3
+buyRecord: SUCCESS
+addPrize: SUCCESS
+index is 4
+addCostumer: SUCCESS
+getPlace: column=42, hight=0
+addPrize: SUCCESS
+getPlace: column=92, hight=0
+addPrize: SUCCESS
+getExpenses: 100
+getExpenses: 100
+putOnTop: SUCCESS
+index is 3
+buyRecord: SUCCESS
+newMonth: SUCCESS
+index is 2
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+getExpenses: 0
+getPlace: column=68, hight=0
+getPlace: column=7, hight=0
+making member 1
+index is 6
+its here 1
 makeMember: SUCCESS
-isMember: True
-getExpenses: DOESNT_EXISTS
-buyRecord: INVALID_INPUT
+index is 6
+buyRecord: SUCCESS
+index is 2
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+making member 1
+index is 4
+its here 1
+makeMember: SUCCESS
+index is 7
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+index is 6
+addCostumer: SUCCESS
+index is 3
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: 0
 putOnTop: FAILURE
-makeMember: INVALID_INPUT
-buyRecord: SUCCESS
-getPhone: 86
-for user: 160
-its own extra is 0
-total extra sum is 0
+getExpenses: 0
+getPlace: column=12, hight=74
+index is 5
 addCostumer: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-addCostumer: ALREADY_EXISTS
-getExpenses: DOESNT_EXISTS
-addPrize: SUCCESS
-getPhone: 172
-getPhone: 6
-addPrize: SUCCESS
-getExpenses: DOESNT_EXISTS
-buyRecord: SUCCESS
-addPrize: INVALID_INPUT
-putOnTop: DOESNT_EXISTS
-addPrize: SUCCESS
-getPlace: INVALID_INPUT
-getPhone: 165
-for user: 214
-its own extra is 36
-total extra sum is 180
-for user: 214
-total expenses: 0
-discount: 180
-getExpenses: -180
-for user: 33
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-getPhone: 86
-addPrize: SUCCESS
-getExpenses: DOESNT_EXISTS
-getPlace: column=13, hight=0
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-getPlace: column=13, hight=0
-for user: 42
-its own extra is 0
-total extra sum is 0
-addCostumer: SUCCESS
-getPlace: INVALID_INPUT
-getExpenses: DOESNT_EXISTS
-for user: 42
-its own extra is 0
-total extra sum is 185
+making member 1
+index is 16
+its here 1
 makeMember: SUCCESS
-makeMember: ALREADY_EXISTS
-isMember: False
+getExpenses: 100
 putOnTop: SUCCESS
-buyRecord: INVALID_INPUT
-getExpenses: DOESNT_EXISTS
-for user: 7
-its own extra is 0
-total extra sum is 0
+index is 13
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+index is 13
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+getExpenses: -786
+getExpenses: 0
+getPlace: column=43, hight=0
+making member 1
+index is 13
+its here 1
 makeMember: SUCCESS
-makeMember: ALREADY_EXISTS
+index is 3
+buyRecord: SUCCESS
+addPrize: SUCCESS
+index is 16
+addCostumer: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+making member 1
+index is 16
+its here 1
+makeMember: SUCCESS
+getExpenses: -786
+getPlace: column=68, hight=0
+getExpenses: 0
 putOnTop: SUCCESS
-isMember: True
-getExpenses: DOESNT_EXISTS
-for user: 208
-its own extra is -84
-total extra sum is 137
-for user: 208
-total expenses: 100
-discount: 137
-getExpenses: -37
+index is 12
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -886
+index is 12
+buyRecord: SUCCESS
+index is 17
+buyRecord: SUCCESS
+index is 17
+addCostumer: SUCCESS
+getPlace: column=46, hight=0
+getPlace: column=58, hight=0
+index is 16
+buyRecord: SUCCESS
+making member 1
+index is 1
+its here 1
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=58, hight=0
+index is 1
+buyRecord: SUCCESS
+making member 1
+index is 12
+its here 1
+makeMember: SUCCESS
+getPlace: column=60, hight=0
+index is 6
+buyRecord: SUCCESS
+getPlace: column=22, hight=0
+getExpenses: -786
+making member 1
+index is 7
+its here 1
+makeMember: SUCCESS
+index is 6
+buyRecord: SUCCESS
+getPlace: column=35, hight=0
+putOnTop: SUCCESS
+getPlace: column=65, hight=93
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+index is 4
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: 100
+putOnTop: SUCCESS
+making member 1
+index is 6
+its here 1
+makeMember: SUCCESS
+index is 16
+buyRecord: SUCCESS
+getExpenses: 0
+getExpenses: -786
+getPlace: column=12, hight=74
+index is 18
+addCostumer: SUCCESS
+getPlace: column=76, hight=0
+index is 5
+addCostumer: SUCCESS
+addPrize: SUCCESS
+index is 20
+buyRecord: SUCCESS
+index is 12
+buyRecord: SUCCESS
+index is 16
+buyRecord: SUCCESS
+index is 0
+addCostumer: SUCCESS
+getPlace: column=58, hight=0
+index is 3
+addCostumer: SUCCESS
+getExpenses: 100
+getExpenses: -1104
+index is 3
+buyRecord: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+getPlace: column=15, hight=0
+index is 9
+addCostumer: SUCCESS
+addPrize: SUCCESS
+getPlace: column=74, hight=132
+index is 37
+getPhone: DOESNT_EXISTS
+index is 19
+addCostumer: SUCCESS
+making member 1
+index is 5
+its here 1
+makeMember: SUCCESS
+addPrize: SUCCESS
+making member 1
+index is 19
+its here 1
+makeMember: SUCCESS
+putOnTop: SUCCESS
+index is 43
+addCostumer: SUCCESS
+index is 17
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=9, hight=0
+addPrize: SUCCESS
+getExpenses: -2066
+getExpenses: -143
+index is 31
+addCostumer: SUCCESS
+getPlace: column=76, hight=0
+putOnTop: SUCCESS
+making member 1
+index is 25
+its here 1
+makeMember: SUCCESS
+getExpenses: 0
+addPrize: SUCCESS
+index is 35
+buyRecord: SUCCESS
+addPrize: SUCCESS
+newMonth: SUCCESS
+addPrize: SUCCESS
+making member 1
+index is 9
+its here 1
+makeMember: SUCCESS
+getPlace: column=9, hight=0
+getPlace: column=22, hight=0
+getPlace: column=30, hight=0
+putOnTop: SUCCESS
+getPlace: column=5, hight=0
+getExpenses: 0
+addPrize: SUCCESS
+getPlace: column=0, hight=0
+getExpenses: -391
+index is 42
+buyRecord: SUCCESS
+index is 38
+buyRecord: SUCCESS
+index is 16
+buyRecord: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+index is 25
+buyRecord: SUCCESS
+getExpenses: 0
+making member 1
+index is 18
+its here 1
+makeMember: SUCCESS
+getPlace: column=29, hight=0
+putOnTop: SUCCESS
+index is 16
+addCostumer: SUCCESS
+index is 3
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+index is 22
+buyRecord: SUCCESS
+making member 1
+index is 43
+its here 1
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=2, hight=0
+index is 4
+buyRecord: SUCCESS
+getPlace: column=9, hight=63
+putOnTop: SUCCESS
+addPrize: SUCCESS
+index is 19
+addCostumer: SUCCESS
+getExpenses: 0
+getPlace: DOESNT_EXISTS
+making member 1
+index is 31
+its here 1
+makeMember: SUCCESS
+index is 43
+addCostumer: SUCCESS
+addPrize: SUCCESS
+index is 36
+buyRecord: SUCCESS
+getExpenses: -21
+index is 19
+buyRecord: SUCCESS
+getExpenses: -291
+putOnTop: SUCCESS
+putOnTop: SUCCESS

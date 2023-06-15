@@ -158,7 +158,7 @@ StatusType AVLTree<K, T>::insert(const K &key, const T &data) {
 
     try {
         this->root = insertAux(this->root, data, key);
-        findNode(key)->extra = -getExtraSum(key);
+       
     }
     catch (const bad_alloc &e) {
         return StatusType::ALLOCATION_ERROR;
@@ -175,6 +175,7 @@ Node<K, T> *AVLTree<K, T>::insertAux(Node<K, T> *currentNode, const T &data, con
         if (currentNode == nullptr) {
             Node<K, T> *newNode = new Node<K, T>(data, key);
             currentNode = newNode;
+            currentNode->extra = -getExtraSum(key);
             return currentNode;
         }
         if (key < currentNode->key)
@@ -386,25 +387,20 @@ T *AVLTree<K, T>::getHighestRankedNode() const {
 
 template<typename K, typename T>
 double AVLTree<K, T>::getExtraSum(const K &key) const {
-        cout << "for user: " << key <<endl;
-
     Node<K, T> *currentNode = root;
     double sum = 0;
 
-    while (currentNode && currentNode->key != key) {
+    while (currentNode) {
         sum += currentNode->extra;
-        if (key < currentNode->key) {
-            currentNode = currentNode->left;
-        } else {
-            currentNode = currentNode->right;
-        }
 
+        if (currentNode->key == key)
+            break;
+        else if (key < currentNode->key)
+            currentNode = currentNode->left;
+        else
+            currentNode = currentNode->right;
     }
-    if (currentNode->key == key) {
-        std::cout << "its own extra is " << currentNode->extra << std::endl;
-        sum += currentNode->extra;
-    }
-    std::cout << "total extra sum is " << sum << std::endl;
+
     return sum;
 }
 
@@ -445,16 +441,16 @@ void AVLTree<K,T>::deleteExtras(){
 
 template<typename K, typename T>
 void AVLTree<K,T>::deleteExtrasAux(Node<K,T> *node){
-    if (!node) {
+    if (!node)
         return;
-    }
+
     if (node->right)
-        arrayAux(node->right);
+        deleteExtrasAux(node->right);
 
     node->extra = 0;
 
     if (node->left)
-        arrayAux(node->left);
+        deleteExtrasAux(node->left);
 
     return;
 }

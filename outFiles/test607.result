@@ -1,0 +1,51 @@
+getExpenses: DOESNT_EXISTS
+addPrize: INVALID_INPUT
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+newMonth: SUCCESS
+makeMember: SUCCESS
+getPlace: column=0, hight=0
+buyRecord: SUCCESS
+getPlace: column=4, hight=0
+buyRecord: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+getPlace: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+putOnTop: DOESNT_EXISTS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+getExpenses: 400
+addPrize: SUCCESS
+getExpenses: -707
+makeMember: SUCCESS
+getExpenses: 400
+putOnTop: FAILURE
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=3, hight=32
+newMonth: SUCCESS
+Unknown command: 6

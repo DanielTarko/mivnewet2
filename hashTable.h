@@ -2,7 +2,7 @@
 #define HASH_TABLE
 #include <memory>
 #include "Customer.h"
-#include "AVLTree.h"
+#include "OGAVL.h"
 
 
 
@@ -12,7 +12,7 @@ const float LOAD_FACTOR_THRESHOLD = 0.75;
 
 class HashTable {
 private:
-    AVLTree<int, std::shared_ptr<Customer>>* table;
+    OGAVLTree<int, std::shared_ptr<Customer>>* table;
     int size;
     int elementCount;
     int hash(int key) const;
@@ -21,6 +21,9 @@ public:
     HashTable();
 
     ~HashTable();
+
+    HashTable(const HashTable& other) = delete;
+    HashTable& operator=(const HashTable& other) = delete;
 
     void insert(std::shared_ptr<Customer> customer);
 

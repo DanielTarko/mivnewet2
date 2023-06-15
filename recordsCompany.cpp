@@ -18,10 +18,7 @@ StatusType RecordsCompany::newMonth(int *records_stocks, int number_of_records) 
             delete month;
         }
         month = new UnionFind(records_stocks, number_of_records);
-        //int* column;
-        //cout << "row is " << month.find(1, column) << "column is " << *column << std::endl;
     } catch (const bad_alloc &e) {
-        cout << "bad alloc" <<std::endl;
         return StatusType::ALLOCATION_ERROR;
     }
     numOfRecords = number_of_records;
@@ -31,6 +28,7 @@ StatusType RecordsCompany::newMonth(int *records_stocks, int number_of_records) 
         customersArray[i]->resetExpenses();
     }
     delete[] customersArray;
+    membersById.deleteExtras();
     return StatusType::SUCCESS;
 }
 
@@ -133,7 +131,6 @@ StatusType RecordsCompany::buyRecord(int c_id, int r_id) {
 
     if (c->IsMember()) {
         c->updateExpenses(currentPurchaseCount);
-       // std::cout << "updating expenses" <<std::endl;
     }
 
     month->incrementPurchaseCount(r_id);
@@ -164,9 +161,6 @@ Output_t<double> RecordsCompany::getExpenses(int c_id) {
 
     double totalExpenses = c->getMonthlyExpenses();
     double discount = membersById.getExtraSum(c_id);
-    cout << "for user: " << c_id <<endl;
-    cout << "total expenses: " << totalExpenses << endl;
-    cout << "discount: " << discount << endl;
     return Output_t<double>(totalExpenses - discount);
 
 }

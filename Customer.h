@@ -15,8 +15,9 @@ private:
 
 public:
     Customer(int id, int phone);
-    Customer(const Customer& other) = default;
     ~Customer() = default;
+    Customer& operator=(const Customer&) = delete;
+    Customer(const Customer& other) = delete;
     const int GetPhoneNumber() const;
     bool IsMember() const;
     int GetId() const;
