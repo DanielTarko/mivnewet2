@@ -1,0 +1,22 @@
+newMonth: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=12, hight=0
+isMember: False
+getPlace: INVALID_INPUT
+isMember: False
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+getExpenses: 0
+getPlace: DOESNT_EXISTS
+getExpenses: 0
+putOnTop: DOESNT_EXISTS
+putOnTop: SUCCESS
+addPrize: INVALID_INPUT
+isMember: False
+getPhone: 155
+addPrize: SUCCESS
+getPhone: INVALID_INPUT
+getPhone: 2

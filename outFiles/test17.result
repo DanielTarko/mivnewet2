@@ -1,0 +1,25 @@
+newMonth: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+isMember: DOESNT_EXISTS
+isMember: False
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=31, hight=0
+getExpenses: DOESNT_EXISTS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+putOnTop: DOESNT_EXISTS
+isMember: False
+isMember: INVALID_INPUT
+getPlace: column=20, hight=0
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+makeMember: ALREADY_EXISTS
+buyRecord: SUCCESS
+getPhone: INVALID_INPUT
+getPlace: DOESNT_EXISTS
+putOnTop: INVALID_INPUT
