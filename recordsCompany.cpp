@@ -14,8 +14,11 @@ StatusType RecordsCompany::newMonth(int *records_stocks, int number_of_records) 
         return StatusType::INVALID_INPUT;
 
     try {
-        month = UnionFind(records_stocks, number_of_records);
-        int* column;
+        if (month) {
+            delete month;
+        }
+        month = new UnionFind(records_stocks, number_of_records);
+        //int* column;
         //cout << "row is " << month.find(1, column) << "column is " << *column << std::endl;
     } catch (const bad_alloc &e) {
         cout << "bad alloc" <<std::endl;
@@ -123,8 +126,9 @@ StatusType RecordsCompany::buyRecord(int c_id, int r_id) {
     if (r_id >= numOfRecords) {
         return DOESNT_EXISTS;
     }
-    int currentPurchaseCount = month.getPurchaseCount(r_id);
-    
+            
+    int currentPurchaseCount = month->getPurchaseCount(r_id);
+
     std::shared_ptr<Customer> c = customers.find(c_id);
 
     if (c->IsMember()) {
@@ -132,7 +136,7 @@ StatusType RecordsCompany::buyRecord(int c_id, int r_id) {
        // std::cout << "updating expenses" <<std::endl;
     }
 
-    month.incrementPurchaseCount(r_id);
+    month->incrementPurchaseCount(r_id);
     return SUCCESS;
 }
 
@@ -160,7 +164,9 @@ Output_t<double> RecordsCompany::getExpenses(int c_id) {
 
     double totalExpenses = c->getMonthlyExpenses();
     double discount = membersById.getExtraSum(c_id);
-
+    cout << "for user: " << c_id <<endl;
+    cout << "total expenses: " << totalExpenses << endl;
+    cout << "discount: " << discount << endl;
     return Output_t<double>(totalExpenses - discount);
 
 }
@@ -172,10 +178,10 @@ StatusType RecordsCompany::putOnTop(int r_id1, int r_id2) {
     if (r_id1 >= numOfRecords || r_id2 >= numOfRecords)
         return StatusType::DOESNT_EXISTS;
 
-    if (month.getRoot(r_id1) == month.getRoot(r_id2))
+    if (month->getRoot(r_id1) == month->getRoot(r_id2))
         return StatusType::FAILURE;
 
-    month.unite(r_id1, r_id2);
+    month->unite(r_id1, r_id2);
     return StatusType::SUCCESS;
 }
 
@@ -186,6 +192,6 @@ StatusType RecordsCompany::getPlace(int r_id, int *column, int *hight) {
     if (r_id >= numOfRecords)
         return StatusType::DOESNT_EXISTS;
 
-    *hight = month.find(r_id, column);
+    *hight = month->find(r_id, column);
     return StatusType::SUCCESS;
 }

@@ -386,6 +386,8 @@ T *AVLTree<K, T>::getHighestRankedNode() const {
 
 template<typename K, typename T>
 double AVLTree<K, T>::getExtraSum(const K &key) const {
+        cout << "for user: " << key <<endl;
+
     Node<K, T> *currentNode = root;
     double sum = 0;
 
@@ -399,8 +401,10 @@ double AVLTree<K, T>::getExtraSum(const K &key) const {
 
     }
     if (currentNode->key == key) {
+        std::cout << "its own extra is " << currentNode->extra << std::endl;
         sum += currentNode->extra;
     }
+    std::cout << "total extra sum is " << sum << std::endl;
     return sum;
 }
 

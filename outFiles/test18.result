@@ -1,30 +1,63 @@
 newMonth: SUCCESS
+for user: 9
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 addCostumer: INVALID_INPUT
+for user: 171
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 isMember: False
 addPrize: SUCCESS
+for user: 171
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
+for user: 171
+its own extra is -0
+total extra sum is 0
+for user: 171
+total expenses: 0
+discount: 0
 getExpenses: 0
 buyRecord: SUCCESS
 buyRecord: SUCCESS
 addPrize: INVALID_INPUT
 getExpenses: INVALID_INPUT
 getPlace: DOESNT_EXISTS
+for user: 202
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 addPrize: SUCCESS
 putOnTop: DOESNT_EXISTS
+for user: 79
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPlace: DOESNT_EXISTS
 getPhone: 146
+for user: 202
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
 getPhone: 118
 getPhone: 50
 getPhone: 50
+for user: 9
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
 getExpenses: DOESNT_EXISTS
 addPrize: SUCCESS
 getPlace: column=23, hight=0
+for user: 202
+its own extra is -0
+total extra sum is 0
+for user: 202
+total expenses: 0
+discount: 0
 getExpenses: 0
 makeMember: ALREADY_EXISTS
 makeMember: DOESNT_EXISTS
@@ -40,15 +73,36 @@ isMember: INVALID_INPUT
 makeMember: ALREADY_EXISTS
 addPrize: INVALID_INPUT
 isMember: INVALID_INPUT
+for user: 9
+its own extra is -15
+total extra sum is 0
+for user: 9
+total expenses: 0
+discount: 0
 getExpenses: 0
+for user: 9
+its own extra is -15
+total extra sum is 0
+for user: 9
+total expenses: 0
+discount: 0
 getExpenses: 0
 buyRecord: SUCCESS
 makeMember: INVALID_INPUT
 getPhone: 118
 makeMember: DOESNT_EXISTS
+for user: 171
+its own extra is 15
+total extra sum is 15
+for user: 171
+total expenses: 200
+discount: 15
 getExpenses: 185
 isMember: INVALID_INPUT
 addPrize: SUCCESS
+for user: 81
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 addPrize: SUCCESS
 buyRecord: SUCCESS
@@ -62,42 +116,111 @@ makeMember: ALREADY_EXISTS
 putOnTop: INVALID_INPUT
 putOnTop: SUCCESS
 getPhone: 50
+for user: 202
+its own extra is -24
+total extra sum is 109
+for user: 202
+total expenses: 0
+discount: 109
 getExpenses: -109
 getExpenses: DOESNT_EXISTS
 isMember: False
+for user: 79
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
 getPlace: column=5, hight=0
 makeMember: ALREADY_EXISTS
+for user: 68
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
+for user: 68
+its own extra is -133
+total extra sum is 0
 makeMember: SUCCESS
 addCostumer: INVALID_INPUT
 getPlace: column=29, hight=0
 buyRecord: DOESNT_EXISTS
 buyRecord: SUCCESS
 putOnTop: SUCCESS
+for user: 76
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 makeMember: DOESNT_EXISTS
 getPlace: column=2, hight=9
 putOnTop: SUCCESS
 makeMember: ALREADY_EXISTS
+for user: 68
+its own extra is -0
+total extra sum is 133
+for user: 68
+total expenses: 0
+discount: 133
 getExpenses: -133
 getPhone: 118
+for user: 62
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 isMember: True
 putOnTop: DOESNT_EXISTS
 isMember: False
+for user: 68
+its own extra is -0
+total extra sum is 133
+for user: 68
+total expenses: 0
+discount: 133
 getExpenses: -133
 putOnTop: DOESNT_EXISTS
 putOnTop: SUCCESS
 buyRecord: INVALID_INPUT
+for user: 181
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 isMember: DOESNT_EXISTS
 getPhone: 118
 addPrize: INVALID_INPUT
+for user: 79
+its own extra is 0
+total extra sum is 0
+for user: 68
+its own extra is 0
+total extra sum is 0
+for user: 202
+its own extra is 0
+total extra sum is 0
+for user: 81
+its own extra is 0
+total extra sum is 0
+for user: 181
+its own extra is 0
+total extra sum is 0
+for user: 171
+its own extra is 0
+total extra sum is 0
+for user: 62
+its own extra is 0
+total extra sum is 0
+for user: 9
+its own extra is 0
+total extra sum is 0
+for user: 76
+its own extra is 0
+total extra sum is 0
+for user: 96
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 buyRecord: SUCCESS
 makeMember: ALREADY_EXISTS
 isMember: INVALID_INPUT
 buyRecord: SUCCESS
 isMember: INVALID_INPUT
+for user: 168
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS

@@ -5,7 +5,7 @@
 
 HashTable::HashTable() { //maybe we need a try and catch here
     size = INITIAL_SIZE;
-    table = new AVLTree<int, std::shared_ptr<Customer>>[size*sizeof(AVLTree<int, std::shared_ptr<Customer>>)]();
+    table = new AVLTree<int, std::shared_ptr<Customer>>[size]();
     elementCount = 0;
 }
 
@@ -20,10 +20,10 @@ int HashTable::hash(int key) const {
 void HashTable::resize(int updatedSize) {
     int oldSize = size;
     size = updatedSize;
-    AVLTree<int, std::shared_ptr<Customer>>* newTable = new AVLTree<int, std::shared_ptr<Customer>>[updatedSize*sizeof(AVLTree<int, std::shared_ptr<Customer>>)];
+    AVLTree<int, std::shared_ptr<Customer>>* newTable = new AVLTree<int, std::shared_ptr<Customer>>[updatedSize];
 
     for (int i = 0; i < oldSize; i++) {
-        std::shared_ptr<Customer> *sortedCustomersArray = new std::shared_ptr<Customer>[table[i].getSize()*sizeof(std::shared_ptr<Customer>)];
+        std::shared_ptr<Customer> *sortedCustomersArray = new std::shared_ptr<Customer>[table[i].getSize()];
         table[i].populateArrayReverseOrder(sortedCustomersArray);
 
         for (int j = 0; j < table[i].getSize(); j++) {

@@ -1,11 +1,10 @@
 #ifndef UNION_FIND_H
 #define UNION_FIND_H
 #include <memory>
-#include "Record.h"
 
 struct UFNode {
 int id;
-std::shared_ptr<UFNode> next;
+UFNode* parent;
 int relativeHeight;
 int nodeCount;
 int absoluteHeight;
@@ -16,8 +15,8 @@ int purchaseCount;
 
 class UnionFind {
 private:
-    std::shared_ptr<UFNode>* nodesArray;
     int numberOfRecords;
+    UFNode** nodesArray;
 
 public:
     UnionFind(int* records_stocks, int number_of_records);

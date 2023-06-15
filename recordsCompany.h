@@ -4,7 +4,6 @@
 #include "utilesWet2.h"
 #include "AVLTree.h"
 #include "Customer.h"
-#include "Record.h"
 #include "hashTable.h"
 #include "unionFind.h"
 
@@ -15,7 +14,7 @@ private:
     AVLTree<int, std::shared_ptr<Customer>> membersById;
     HashTable customers;
     int numOfRecords;
-    UnionFind month;
+    UnionFind* month;
 
 
 

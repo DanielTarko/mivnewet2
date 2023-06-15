@@ -1,27 +1,54 @@
 newMonth: SUCCESS
+for user: 239
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
+for user: 77
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
+for user: 186
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 makeMember: INVALID_INPUT
 getPhone: DOESNT_EXISTS
 getPlace: INVALID_INPUT
+for user: 171
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
+for user: 27
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPhone: 57
 isMember: False
 makeMember: INVALID_INPUT
+for user: 239
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
 getPhone: INVALID_INPUT
 isMember: True
+for user: 42
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPlace: DOESNT_EXISTS
 getExpenses: DOESNT_EXISTS
 getPhone: 176
 addPrize: SUCCESS
+for user: 30
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 isMember: False
 buyRecord: SUCCESS
 isMember: False
+for user: 91
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPhone: INVALID_INPUT
 getPlace: DOESNT_EXISTS
@@ -32,6 +59,9 @@ buyRecord: SUCCESS
 addPrize: SUCCESS
 putOnTop: SUCCESS
 addPrize: INVALID_INPUT
+for user: 67
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPhone: 16
 addCostumer: ALREADY_EXISTS
@@ -40,17 +70,59 @@ getPlace: column=9, hight=0
 putOnTop: FAILURE
 addPrize: SUCCESS
 addPrize: SUCCESS
+for user: 77
+its own extra is 0
+total extra sum is 0
+for user: 67
+its own extra is 0
+total extra sum is 0
+for user: 91
+its own extra is 0
+total extra sum is 0
+for user: 27
+its own extra is 0
+total extra sum is 0
+for user: 171
+its own extra is 0
+total extra sum is 0
+for user: 239
+its own extra is 0
+total extra sum is 0
+for user: 30
+its own extra is 0
+total extra sum is 0
+for user: 42
+its own extra is 0
+total extra sum is 0
+for user: 186
+its own extra is 0
+total extra sum is 0
+for user: 135
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 putOnTop: INVALID_INPUT
 getPhone: DOESNT_EXISTS
 addPrize: SUCCESS
 buyRecord: SUCCESS
 isMember: True
+for user: 77
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
+for user: 107
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
+for user: 36
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getExpenses: DOESNT_EXISTS
 getPhone: 20
+for user: 116
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPhone: INVALID_INPUT
 putOnTop: SUCCESS
@@ -58,15 +130,30 @@ addPrize: INVALID_INPUT
 getPhone: 35
 addPrize: INVALID_INPUT
 makeMember: INVALID_INPUT
+for user: 67
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
 getPhone: INVALID_INPUT
 putOnTop: DOESNT_EXISTS
+for user: 67
+its own extra is -0
+total extra sum is 0
+for user: 67
+total expenses: 0
+discount: 0
 getExpenses: 0
 getPlace: column=15, hight=0
 addPrize: INVALID_INPUT
+for user: 92
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPlace: DOESNT_EXISTS
 buyRecord: SUCCESS
+for user: 160
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 putOnTop: DOESNT_EXISTS
 isMember: False
@@ -81,13 +168,73 @@ getExpenses: DOESNT_EXISTS
 buyRecord: SUCCESS
 getPlace: column=15, hight=0
 getPhone: 35
+for user: 98
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 isMember: True
 buyRecord: SUCCESS
 isMember: False
+for user: 82
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 buyRecord: SUCCESS
 buyRecord: SUCCESS
+for user: 67
+its own extra is 0
+total extra sum is 0
+for user: 135
+its own extra is 0
+total extra sum is 0
+for user: 91
+its own extra is 0
+total extra sum is 0
+for user: 92
+its own extra is 0
+total extra sum is 0
+for user: 27
+its own extra is 0
+total extra sum is 0
+for user: 160
+its own extra is 0
+total extra sum is 0
+for user: 116
+its own extra is 0
+total extra sum is 0
+for user: 30
+its own extra is 0
+total extra sum is 0
+for user: 186
+its own extra is 0
+total extra sum is 0
+for user: 98
+its own extra is 0
+total extra sum is 0
+for user: 77
+its own extra is 0
+total extra sum is 0
+for user: 36
+its own extra is 0
+total extra sum is 0
+for user: 82
+its own extra is 0
+total extra sum is 0
+for user: 171
+its own extra is 0
+total extra sum is 0
+for user: 239
+its own extra is 0
+total extra sum is 0
+for user: 107
+its own extra is 0
+total extra sum is 0
+for user: 42
+its own extra is 0
+total extra sum is 0
+for user: 166
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 putOnTop: DOESNT_EXISTS
 addPrize: SUCCESS
@@ -97,17 +244,1738 @@ getPhone: 95
 putOnTop: INVALID_INPUT
 putOnTop: SUCCESS
 addPrize: SUCCESS
+for user: 67
+its own extra is -0
+total extra sum is 102
+for user: 67
+total expenses: 0
+discount: 102
 getExpenses: -102
 addPrize: INVALID_INPUT
 getPhone: 176
 makeMember: DOESNT_EXISTS
 getPlace: column=4, hight=9
+for user: 50
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 buyRecord: SUCCESS
 putOnTop: SUCCESS
+for user: 181
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 putOnTop: DOESNT_EXISTS
 isMember: INVALID_INPUT
 getPlace: column=3, hight=0
 getPhone: 20
 putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPhone: 95
+getPhone: 57
+addPrize: SUCCESS
+isMember: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+getPlace: DOESNT_EXISTS
+for user: 231
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addPrize: INVALID_INPUT
+for user: 232
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 232
+its own extra is 0
+total extra sum is 214
+makeMember: SUCCESS
+getPlace: column=13, hight=7
+isMember: INVALID_INPUT
+putOnTop: DOESNT_EXISTS
+getPhone: 138
+buyRecord: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+for user: 243
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPlace: column=0, hight=12
+makeMember: ALREADY_EXISTS
+isMember: False
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+putOnTop: SUCCESS
+getPlace: column=13, hight=24
+getPlace: column=8, hight=0
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+for user: 91
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+getPhone: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+for user: 239
+its own extra is 214
+total extra sum is 214
+for user: 239
+total expenses: 302
+discount: 214
+getExpenses: 88
+makeMember: INVALID_INPUT
+buyRecord: SUCCESS
+getPlace: column=15, hight=0
+getPlace: column=0, hight=11
+putOnTop: SUCCESS
+addCostumer: ALREADY_EXISTS
+buyRecord: SUCCESS
+for user: 92
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+addPrize: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+putOnTop: DOESNT_EXISTS
+getExpenses: INVALID_INPUT
+for user: 154
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 212
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 181
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+for user: 109
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPlace: column=0, hight=84
+getExpenses: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+for user: 31
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: DOESNT_EXISTS
+getPlace: column=6, hight=0
+addPrize: SUCCESS
+getPlace: column=0, hight=40
+for user: 229
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPlace: column=0, hight=84
+for user: 195
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 92
+its own extra is -47
+total extra sum is 0
+for user: 92
+total expenses: 0
+discount: 0
+getExpenses: 0
+isMember: False
+getExpenses: DOESNT_EXISTS
+for user: 110
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+isMember: False
+isMember: False
+for user: 238
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 42
+its own extra is 0
+total extra sum is 185
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+isMember: False
+for user: 125
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: INVALID_INPUT
+isMember: DOESNT_EXISTS
+getPlace: column=6, hight=0
+for user: 127
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+isMember: False
+getExpenses: DOESNT_EXISTS
+isMember: False
+getPhone: 138
+isMember: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getPhone: 67
+getPhone: 36
+putOnTop: SUCCESS
+for user: 135
+its own extra is 0
+total extra sum is 0
+for user: 91
+its own extra is 0
+total extra sum is 0
+for user: 92
+its own extra is 0
+total extra sum is 0
+for user: 181
+its own extra is 0
+total extra sum is 0
+for user: 50
+its own extra is 0
+total extra sum is 0
+for user: 229
+its own extra is 0
+total extra sum is 0
+for user: 186
+its own extra is 0
+total extra sum is 0
+for user: 98
+its own extra is 0
+total extra sum is 0
+for user: 231
+its own extra is 0
+total extra sum is 0
+for user: 232
+its own extra is 0
+total extra sum is 0
+for user: 238
+its own extra is 0
+total extra sum is 0
+for user: 239
+its own extra is 0
+total extra sum is 0
+for user: 195
+its own extra is 0
+total extra sum is 0
+for user: 107
+its own extra is 0
+total extra sum is 0
+for user: 109
+its own extra is 0
+total extra sum is 0
+for user: 154
+its own extra is 0
+total extra sum is 0
+for user: 110
+its own extra is 0
+total extra sum is 0
+for user: 243
+its own extra is 0
+total extra sum is 0
+for user: 67
+its own extra is 0
+total extra sum is 0
+for user: 27
+its own extra is 0
+total extra sum is 0
+for user: 160
+its own extra is 0
+total extra sum is 0
+for user: 116
+its own extra is 0
+total extra sum is 0
+for user: 30
+its own extra is 0
+total extra sum is 0
+for user: 31
+its own extra is 0
+total extra sum is 0
+for user: 77
+its own extra is 0
+total extra sum is 0
+for user: 166
+its own extra is 0
+total extra sum is 0
+for user: 212
+its own extra is 0
+total extra sum is 0
+for user: 36
+its own extra is 0
+total extra sum is 0
+for user: 125
+its own extra is 0
+total extra sum is 0
+for user: 82
+its own extra is 0
+total extra sum is 0
+for user: 171
+its own extra is 0
+total extra sum is 0
+for user: 127
+its own extra is 0
+total extra sum is 0
+for user: 42
+its own extra is 0
+total extra sum is 0
+for user: 66
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: INVALID_INPUT
+for user: 9
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+isMember: False
+for user: 149
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+getPhone: 5
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: FAILURE
+isMember: False
+makeMember: DOESNT_EXISTS
+isMember: False
+putOnTop: DOESNT_EXISTS
+buyRecord: SUCCESS
+for user: 36
+its own extra is 0
+total extra sum is 22
+makeMember: SUCCESS
+for user: 29
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+isMember: False
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+addPrize: INVALID_INPUT
+makeMember: INVALID_INPUT
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+isMember: False
+buyRecord: DOESNT_EXISTS
+isMember: False
+buyRecord: SUCCESS
+getPhone: 57
+isMember: INVALID_INPUT
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addPrize: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+isMember: False
+addCostumer: INVALID_INPUT
+isMember: False
+getExpenses: DOESNT_EXISTS
+getPhone: 66
+getPlace: column=12, hight=99
+buyRecord: SUCCESS
+for user: 122
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+putOnTop: DOESNT_EXISTS
+getPhone: 35
+getPlace: column=12, hight=17
+makeMember: INVALID_INPUT
+getPhone: 47
+isMember: DOESNT_EXISTS
+isMember: False
+isMember: True
+for user: 77
+its own extra is 0
+total extra sum is 207
+for user: 77
+total expenses: 0
+discount: 207
+getExpenses: -207
+addPrize: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+isMember: False
+putOnTop: DOESNT_EXISTS
+addPrize: INVALID_INPUT
+addCostumer: ALREADY_EXISTS
+getPhone: DOESNT_EXISTS
+getPlace: column=12, hight=0
+isMember: False
+addPrize: INVALID_INPUT
+for user: 212
+its own extra is 0
+total extra sum is 47
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+getPhone: 175
+for user: 93
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 231
+its own extra is -83
+total extra sum is 51
+makeMember: SUCCESS
+for user: 181
+its own extra is 47
+total extra sum is 98
+for user: 181
+total expenses: 0
+discount: 98
+getExpenses: -98
+makeMember: INVALID_INPUT
+getPlace: column=12, hight=59
+getPlace: INVALID_INPUT
+putOnTop: FAILURE
+for user: 75
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addPrize: SUCCESS
+getPhone: 35
+for user: 76
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: 169
+putOnTop: FAILURE
+getExpenses: DOESNT_EXISTS
+getPhone: 7
+for user: 91
+its own extra is 134
+total extra sum is 134
+for user: 91
+total expenses: 102
+discount: 134
+getExpenses: -32
+getPhone: 87
+getExpenses: DOESNT_EXISTS
+getPhone: 87
+buyRecord: INVALID_INPUT
+getPlace: DOESNT_EXISTS
+getPlace: DOESNT_EXISTS
+addPrize: SUCCESS
+getPlace: column=12, hight=6
+getPlace: INVALID_INPUT
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+isMember: False
+getPlace: column=7, hight=83
+getPhone: 147
+buyRecord: SUCCESS
+isMember: False
+addPrize: SUCCESS
+addPrize: SUCCESS
+getPhone: 210
+for user: 171
+its own extra is 97
+total extra sum is 260
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: FAILURE
+addPrize: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+isMember: DOESNT_EXISTS
+addPrize: INVALID_INPUT
+makeMember: ALREADY_EXISTS
+putOnTop: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+putOnTop: FAILURE
+buyRecord: INVALID_INPUT
+buyRecord: SUCCESS
+isMember: True
+getPhone: 127
+for user: 17
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 31
+its own extra is 0
+total extra sum is 343
+makeMember: SUCCESS
+isMember: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+isMember: True
+putOnTop: DOESNT_EXISTS
+buyRecord: SUCCESS
+getPhone: 32
+getPlace: column=7, hight=83
+getPhone: 57
+putOnTop: FAILURE
+getExpenses: DOESNT_EXISTS
+getExpenses: INVALID_INPUT
+isMember: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+for user: 117
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 167
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: DOESNT_EXISTS
+getPlace: INVALID_INPUT
+buyRecord: SUCCESS
+for user: 238
+its own extra is 0
+total extra sum is 460
+makeMember: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+makeMember: ALREADY_EXISTS
+getPhone: 75
+for user: 27
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+makeMember: ALREADY_EXISTS
+putOnTop: FAILURE
+for user: 231
+its own extra is -51
+total extra sum is 238
+for user: 231
+total expenses: 0
+discount: 238
+getExpenses: -238
+getPlace: column=7, hight=98
+putOnTop: DOESNT_EXISTS
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+for user: 189
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: 42
+getPhone: INVALID_INPUT
+isMember: False
+getExpenses: INVALID_INPUT
+getPhone: 206
+getExpenses: DOESNT_EXISTS
+isMember: True
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+for user: 181
+its own extra is -208
+total extra sum is -104
+for user: 181
+total expenses: 0
+discount: -104
+getExpenses: 104
+getExpenses: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+putOnTop: SUCCESS
+getPhone: 176
+putOnTop: INVALID_INPUT
+addPrize: INVALID_INPUT
+putOnTop: FAILURE
+addPrize: INVALID_INPUT
+getPhone: DOESNT_EXISTS
+for user: 107
+its own extra is 0
+total extra sum is -23
+makeMember: SUCCESS
+for user: 227
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addPrize: INVALID_INPUT
+getPhone: 0
+isMember: False
+getExpenses: DOESNT_EXISTS
+isMember: False
+makeMember: ALREADY_EXISTS
+getPhone: 175
+for user: 21
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 28
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+makeMember: ALREADY_EXISTS
+addPrize: INVALID_INPUT
+buyRecord: SUCCESS
+getPlace: DOESNT_EXISTS
+addPrize: INVALID_INPUT
+for user: 189
+its own extra is 0
+total extra sum is -103
+makeMember: SUCCESS
+getPhone: 85
+for user: 166
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+for user: 167
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+getPlace: column=8, hight=120
+addPrize: SUCCESS
+isMember: False
+addCostumer: ALREADY_EXISTS
+for user: 149
+its own extra is 0
+total extra sum is 22
+makeMember: SUCCESS
+isMember: INVALID_INPUT
+addCostumer: ALREADY_EXISTS
+addPrize: INVALID_INPUT
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=8, hight=94
+makeMember: ALREADY_EXISTS
+isMember: True
+buyRecord: SUCCESS
+for user: 73
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+buyRecord: DOESNT_EXISTS
+getExpenses: INVALID_INPUT
+getPlace: DOESNT_EXISTS
+getPlace: column=8, hight=18
+isMember: False
+for user: 106
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: INVALID_INPUT
+buyRecord: SUCCESS
+isMember: True
+getExpenses: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+putOnTop: FAILURE
+for user: 125
+its own extra is -39
+total extra sum is 77
+makeMember: SUCCESS
+makeMember: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: FAILURE
+getExpenses: DOESNT_EXISTS
+for user: 166
+its own extra is 22
+total extra sum is 99
+for user: 166
+total expenses: 0
+discount: 99
+getExpenses: -99
+putOnTop: FAILURE
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: DOESNT_EXISTS
+isMember: False
+getPhone: INVALID_INPUT
+addPrize: INVALID_INPUT
+for user: 86
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+isMember: True
+getPlace: column=8, hight=38
+buyRecord: DOESNT_EXISTS
+addCostumer: ALREADY_EXISTS
+addPrize: INVALID_INPUT
+buyRecord: SUCCESS
+isMember: False
+addPrize: INVALID_INPUT
+putOnTop: FAILURE
+buyRecord: SUCCESS
+buyRecord: DOESNT_EXISTS
+getPlace: column=8, hight=58
+getPlace: column=1, hight=0
+putOnTop: FAILURE
+getPlace: DOESNT_EXISTS
+buyRecord: SUCCESS
+for user: 236
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+isMember: False
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+addPrize: INVALID_INPUT
+addPrize: SUCCESS
+getPlace: column=8, hight=18
+addPrize: SUCCESS
+getPhone: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+isMember: INVALID_INPUT
+putOnTop: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+isMember: False
+for user: 75
+its own extra is 0
+total extra sum is 635
+makeMember: SUCCESS
+getPhone: 19
+getPlace: column=8, hight=111
+addPrize: SUCCESS
+addPrize: INVALID_INPUT
+putOnTop: FAILURE
+buyRecord: SUCCESS
+getPlace: DOESNT_EXISTS
+addPrize: SUCCESS
+getPlace: column=8, hight=38
+for user: 201
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addPrize: INVALID_INPUT
+for user: 10
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+isMember: False
+putOnTop: DOESNT_EXISTS
+getPhone: 207
+putOnTop: DOESNT_EXISTS
+putOnTop: FAILURE
+putOnTop: FAILURE
+getPlace: column=8, hight=29
+buyRecord: DOESNT_EXISTS
+isMember: False
+for user: 51
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPlace: column=8, hight=87
+addCostumer: ALREADY_EXISTS
+for user: 181
+its own extra is -244
+total extra sum is 148
+for user: 181
+total expenses: 0
+discount: 148
+getExpenses: -148
+for user: 209
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: 75
+getPhone: 19
+getExpenses: INVALID_INPUT
+addPrize: INVALID_INPUT
+addPrize: SUCCESS
+putOnTop: FAILURE
+putOnTop: FAILURE
+getExpenses: DOESNT_EXISTS
+buyRecord: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+getPhone: 9
+for user: 115
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPlace: DOESNT_EXISTS
+putOnTop: FAILURE
+putOnTop: SUCCESS
+buyRecord: INVALID_INPUT
+for user: 160
+its own extra is 0
+total extra sum is 319
+makeMember: SUCCESS
+addPrize: SUCCESS
+for user: 188
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+isMember: False
+addPrize: SUCCESS
+getPhone: 75
+makeMember: INVALID_INPUT
+isMember: DOESNT_EXISTS
+for user: 58
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+isMember: False
+putOnTop: DOESNT_EXISTS
+isMember: False
+for user: 10
+its own extra is 0
+total extra sum is 139
+makeMember: SUCCESS
+buyRecord: INVALID_INPUT
+addPrize: INVALID_INPUT
+getPhone: 17
+for user: 3
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addCostumer: ALREADY_EXISTS
+putOnTop: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+isMember: False
+putOnTop: FAILURE
+makeMember: DOESNT_EXISTS
+for user: 106
+its own extra is 0
+total extra sum is 253
+makeMember: SUCCESS
+addCostumer: ALREADY_EXISTS
+makeMember: ALREADY_EXISTS
+buyRecord: SUCCESS
+for user: 221
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+for user: 149
+its own extra is -314
+total extra sum is 318
+for user: 149
+total expenses: 0
+discount: 318
+getExpenses: -318
+getPhone: 67
+isMember: INVALID_INPUT
+getPlace: DOESNT_EXISTS
+getPlace: column=1, hight=0
+buyRecord: SUCCESS
+putOnTop: FAILURE
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+addPrize: INVALID_INPUT
+for user: 51
+its own extra is 0
+total extra sum is 596
+makeMember: SUCCESS
+makeMember: INVALID_INPUT
+buyRecord: SUCCESS
+putOnTop: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+getExpenses: DOESNT_EXISTS
+putOnTop: INVALID_INPUT
+addPrize: INVALID_INPUT
+for user: 30
+its own extra is 0
+total extra sum is 205
+makeMember: SUCCESS
+makeMember: DOESNT_EXISTS
+putOnTop: DOESNT_EXISTS
+isMember: True
+getPlace: column=1, hight=114
+addCostumer: ALREADY_EXISTS
+getPhone: 228
+getPlace: column=1, hight=30
+putOnTop: FAILURE
+isMember: True
+isMember: INVALID_INPUT
+isMember: True
+for user: 27
+its own extra is -409
+total extra sum is 139
+for user: 27
+total expenses: 0
+discount: 139
+getExpenses: -139
+getPhone: DOESNT_EXISTS
+getPlace: column=1, hight=99
+getPhone: 244
+for user: 195
+its own extra is 0
+total extra sum is 428
+makeMember: SUCCESS
+isMember: DOESNT_EXISTS
+buyRecord: SUCCESS
+makeMember: INVALID_INPUT
+getExpenses: INVALID_INPUT
+addCostumer: ALREADY_EXISTS
+addPrize: INVALID_INPUT
+putOnTop: INVALID_INPUT
+addPrize: INVALID_INPUT
+isMember: False
+getPhone: 66
+addCostumer: ALREADY_EXISTS
+getPhone: DOESNT_EXISTS
+getExpenses: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+isMember: False
+addCostumer: ALREADY_EXISTS
+getPlace: column=1, hight=123
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+getPlace: column=1, hight=83
+isMember: False
+getPlace: DOESNT_EXISTS
+for user: 189
+its own extra is -141
+total extra sum is 442
+for user: 189
+total expenses: 0
+discount: 442
+getExpenses: -442
+for user: 10
+its own extra is -139
+total extra sum is 0
+for user: 10
+total expenses: 0
+discount: 0
+getExpenses: 0
+for user: 226
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: 5
+putOnTop: FAILURE
+isMember: INVALID_INPUT
+addPrize: SUCCESS
+buyRecord: DOESNT_EXISTS
+for user: 106
+its own extra is -178
+total extra sum is 120
+for user: 106
+total expenses: 0
+discount: 120
+getExpenses: -120
+getPlace: column=1, hight=114
+buyRecord: SUCCESS
+getPlace: DOESNT_EXISTS
+for user: 10
+its own extra is -139
+total extra sum is 0
+for user: 10
+total expenses: 0
+discount: 0
+getExpenses: 0
+isMember: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+for user: 17
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+getPlace: column=1, hight=106
+for user: 3
+its own extra is 0
+total extra sum is 0
+makeMember: SUCCESS
+getPhone: 42
+for user: 148
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+putOnTop: FAILURE
+putOnTop: DOESNT_EXISTS
+for user: 248
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: INVALID_INPUT
+isMember: DOESNT_EXISTS
+putOnTop: DOESNT_EXISTS
+buyRecord: SUCCESS
+getPhone: 47
+getPhone: DOESNT_EXISTS
+isMember: False
+getPhone: 91
+buyRecord: SUCCESS
+getPlace: column=1, hight=12
+addPrize: SUCCESS
+isMember: False
+getExpenses: DOESNT_EXISTS
+isMember: False
+isMember: True
+for user: 212
+its own extra is 50
+total extra sum is 583
+for user: 212
+total expenses: 102
+discount: 583
+getExpenses: -481
+for user: 31
+its own extra is 66
+total extra sum is 205
+for user: 31
+total expenses: 203
+discount: 205
+getExpenses: -2
+isMember: False
+getPhone: 238
+getPlace: column=1, hight=139
+getPhone: 213
+isMember: False
+buyRecord: SUCCESS
+for user: 2
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPlace: INVALID_INPUT
+for user: 80
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+putOnTop: FAILURE
+buyRecord: DOESNT_EXISTS
+makeMember: INVALID_INPUT
+isMember: True
+putOnTop: DOESNT_EXISTS
+putOnTop: FAILURE
+getPhone: INVALID_INPUT
+for user: 232
+its own extra is 38
+total extra sum is 621
+for user: 232
+total expenses: 0
+discount: 621
+getExpenses: -621
+for user: 2
+its own extra is 0
+total extra sum is 0
+for user: 91
+its own extra is 0
+total extra sum is 0
+for user: 3
+its own extra is 0
+total extra sum is 0
+for user: 92
+its own extra is 0
+total extra sum is 0
+for user: 181
+its own extra is 0
+total extra sum is 0
+for user: 93
+its own extra is 0
+total extra sum is 0
+for user: 9
+its own extra is 0
+total extra sum is 0
+for user: 186
+its own extra is 0
+total extra sum is 0
+for user: 98
+its own extra is 0
+total extra sum is 0
+for user: 10
+its own extra is 0
+total extra sum is 0
+for user: 188
+its own extra is 0
+total extra sum is 0
+for user: 189
+its own extra is 0
+total extra sum is 0
+for user: 17
+its own extra is 0
+total extra sum is 0
+for user: 106
+its own extra is 0
+total extra sum is 0
+for user: 195
+its own extra is 0
+total extra sum is 0
+for user: 107
+its own extra is 0
+total extra sum is 0
+for user: 109
+its own extra is 0
+total extra sum is 0
+for user: 21
+its own extra is 0
+total extra sum is 0
+for user: 110
+its own extra is 0
+total extra sum is 0
+for user: 201
+its own extra is 0
+total extra sum is 0
+for user: 115
+its own extra is 0
+total extra sum is 0
+for user: 27
+its own extra is 0
+total extra sum is 0
+for user: 116
+its own extra is 0
+total extra sum is 0
+for user: 28
+its own extra is 0
+total extra sum is 0
+for user: 117
+its own extra is 0
+total extra sum is 0
+for user: 29
+its own extra is 0
+total extra sum is 0
+for user: 30
+its own extra is 0
+total extra sum is 0
+for user: 31
+its own extra is 0
+total extra sum is 0
+for user: 209
+its own extra is 0
+total extra sum is 0
+for user: 122
+its own extra is 0
+total extra sum is 0
+for user: 212
+its own extra is 0
+total extra sum is 0
+for user: 36
+its own extra is 0
+total extra sum is 0
+for user: 125
+its own extra is 0
+total extra sum is 0
+for user: 127
+its own extra is 0
+total extra sum is 0
+for user: 42
+its own extra is 0
+total extra sum is 0
+for user: 221
+its own extra is 0
+total extra sum is 0
+for user: 135
+its own extra is 0
+total extra sum is 0
+for user: 226
+its own extra is 0
+total extra sum is 0
+for user: 50
+its own extra is 0
+total extra sum is 0
+for user: 227
+its own extra is 0
+total extra sum is 0
+for user: 51
+its own extra is 0
+total extra sum is 0
+for user: 229
+its own extra is 0
+total extra sum is 0
+for user: 231
+its own extra is 0
+total extra sum is 0
+for user: 232
+its own extra is 0
+total extra sum is 0
+for user: 58
+its own extra is 0
+total extra sum is 0
+for user: 236
+its own extra is 0
+total extra sum is 0
+for user: 148
+its own extra is 0
+total extra sum is 0
+for user: 149
+its own extra is 0
+total extra sum is 0
+for user: 238
+its own extra is 0
+total extra sum is 0
+for user: 239
+its own extra is 0
+total extra sum is 0
+for user: 154
+its own extra is 0
+total extra sum is 0
+for user: 66
+its own extra is 0
+total extra sum is 0
+for user: 243
+its own extra is 0
+total extra sum is 0
+for user: 67
+its own extra is 0
+total extra sum is 0
+for user: 248
+its own extra is 0
+total extra sum is 0
+for user: 160
+its own extra is 0
+total extra sum is 0
+for user: 73
+its own extra is 0
+total extra sum is 0
+for user: 75
+its own extra is 0
+total extra sum is 0
+for user: 76
+its own extra is 0
+total extra sum is 0
+for user: 77
+its own extra is 0
+total extra sum is 0
+for user: 166
+its own extra is 0
+total extra sum is 0
+for user: 167
+its own extra is 0
+total extra sum is 0
+for user: 80
+its own extra is 0
+total extra sum is 0
+for user: 82
+its own extra is 0
+total extra sum is 0
+for user: 171
+its own extra is 0
+total extra sum is 0
+for user: 86
+its own extra is 0
+total extra sum is 0
+for user: 83
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPlace: column=1, hight=83
+getPlace: DOESNT_EXISTS
+getPlace: column=1, hight=139
+addPrize: SUCCESS
+getPlace: column=1, hight=16
+makeMember: INVALID_INPUT
+buyRecord: SUCCESS
+putOnTop: FAILURE
+for user: 149
+its own extra is -263
+total extra sum is 452
+for user: 149
+total expenses: 104
+discount: 452
+getExpenses: -348
+for user: 42
+its own extra is -244
+total extra sum is 596
+for user: 42
+total expenses: 302
+discount: 596
+getExpenses: -294
+getPhone: 127
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+isMember: True
+putOnTop: FAILURE
+for user: 84
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+getPhone: 105
+isMember: True
+putOnTop: FAILURE
+addPrize: INVALID_INPUT
+for user: 127
+its own extra is 0
+total extra sum is 544
+makeMember: SUCCESS
+getPlace: DOESNT_EXISTS
+getPhone: 138
+isMember: True
+getPhone: 247
+addPrize: SUCCESS
+putOnTop: FAILURE
+isMember: DOESNT_EXISTS
+buyRecord: INVALID_INPUT
+getPlace: column=1, hight=106
+for user: 162
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addPrize: INVALID_INPUT
+for user: 137
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 92
+its own extra is -204
+total extra sum is 412
+for user: 92
+total expenses: 0
+discount: 412
+getExpenses: -412
+for user: 106
+its own extra is -178
+total extra sum is 234
+for user: 106
+total expenses: 0
+discount: 234
+getExpenses: -234
+getPhone: DOESNT_EXISTS
+getPhone: 186
+makeMember: ALREADY_EXISTS
+putOnTop: FAILURE
+getExpenses: INVALID_INPUT
+getPlace: column=1, hight=50
+putOnTop: FAILURE
+addCostumer: ALREADY_EXISTS
+for user: 167
+its own extra is 43
+total extra sum is 572
+for user: 167
+total expenses: 0
+discount: 572
+getExpenses: -572
+putOnTop: FAILURE
+buyRecord: SUCCESS
+isMember: False
+for user: 78
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addCostumer: ALREADY_EXISTS
+isMember: False
+addPrize: INVALID_INPUT
+isMember: False
+putOnTop: DOESNT_EXISTS
+isMember: False
+addPrize: SUCCESS
+addPrize: INVALID_INPUT
+for user: 3
+its own extra is -0
+total extra sum is 0
+for user: 3
+total expenses: 0
+discount: 0
+getExpenses: 0
+buyRecord: DOESNT_EXISTS
+addPrize: SUCCESS
+getPhone: 20
+isMember: True
+putOnTop: FAILURE
+getExpenses: INVALID_INPUT
+for user: 56
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+isMember: False
+buyRecord: SUCCESS
+buyRecord: DOESNT_EXISTS
+isMember: INVALID_INPUT
+isMember: INVALID_INPUT
+getPhone: 98
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+putOnTop: FAILURE
+addPrize: INVALID_INPUT
+for user: 37
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 116
+its own extra is 0
+total extra sum is 544
+makeMember: SUCCESS
+getPhone: 9
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+getPlace: column=1, hight=12
+isMember: False
+buyRecord: DOESNT_EXISTS
+buyRecord: INVALID_INPUT
+isMember: True
+for user: 196
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addPrize: INVALID_INPUT
+for user: 100
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: INVALID_INPUT
+buyRecord: SUCCESS
+buyRecord: DOESNT_EXISTS
+isMember: True
+isMember: True
+getPlace: column=1, hight=99
+putOnTop: FAILURE
+buyRecord: SUCCESS
+isMember: False
+getPlace: DOESNT_EXISTS
+for user: 225
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+putOnTop: DOESNT_EXISTS
+addPrize: SUCCESS
+for user: 51
+its own extra is -554
+total extra sum is 116
+for user: 51
+total expenses: 0
+discount: 116
+getExpenses: -116
+getPlace: column=1, hight=50
+isMember: True
+makeMember: ALREADY_EXISTS
+addCostumer: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+for user: 241
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+isMember: True
+for user: 92
+its own extra is -204
+total extra sum is 557
+for user: 92
+total expenses: 0
+discount: 557
+getExpenses: -557
+getPlace: column=1, hight=42
+for user: 176
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+putOnTop: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+isMember: False
+for user: 125
+its own extra is -72
+total extra sum is 689
+for user: 125
+total expenses: 0
+discount: 689
+getExpenses: -689
+for user: 221
+its own extra is 0
+total extra sum is 850
+makeMember: SUCCESS
+buyRecord: INVALID_INPUT
+addCostumer: ALREADY_EXISTS
+addCostumer: ALREADY_EXISTS
+addPrize: SUCCESS
+putOnTop: INVALID_INPUT
+getPhone: 14
+addPrize: INVALID_INPUT
+putOnTop: FAILURE
+putOnTop: FAILURE
+addCostumer: ALREADY_EXISTS
+addPrize: SUCCESS
+getPlace: column=1, hight=41
+getPhone: DOESNT_EXISTS
+getPlace: column=1, hight=70
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+isMember: True
+isMember: INVALID_INPUT
+getPlace: column=1, hight=130
+addPrize: SUCCESS
+makeMember: ALREADY_EXISTS
+putOnTop: DOESNT_EXISTS
+getPhone: 87
+getPlace: column=1, hight=106
+addPrize: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+isMember: False
+getPhone: INVALID_INPUT
+getPhone: 14
+addPrize: SUCCESS
+addPrize: SUCCESS
+putOnTop: FAILURE
+getPlace: INVALID_INPUT
+getPlace: DOESNT_EXISTS
+buyRecord: SUCCESS
+makeMember: DOESNT_EXISTS
+for user: 162
+its own extra is 0
+total extra sum is 816
+makeMember: SUCCESS
+getPhone: 20
+putOnTop: FAILURE
+for user: 61
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+makeMember: ALREADY_EXISTS
+getPhone: INVALID_INPUT
+getPhone: 66
+addPrize: SUCCESS
+getExpenses: INVALID_INPUT
+getPlace: DOESNT_EXISTS
+for user: 169
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getPhone: DOESNT_EXISTS
+makeMember: ALREADY_EXISTS
+for user: 214
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addCostumer: ALREADY_EXISTS
+getPhone: 127
+getPhone: 213
+addPrize: SUCCESS
+makeMember: ALREADY_EXISTS
+buyRecord: INVALID_INPUT
+makeMember: ALREADY_EXISTS
+isMember: False
+getPlace: column=1, hight=114
+addPrize: SUCCESS
+getPhone: 47
+putOnTop: DOESNT_EXISTS
+isMember: False
+buyRecord: SUCCESS
+for user: 18
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: 212
+for user: 122
+its own extra is 0
+total extra sum is 655
+makeMember: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+getPhone: 179
+for user: 243
+its own extra is 0
+total extra sum is 1392
+makeMember: SUCCESS
+addPrize: SUCCESS
+for user: 139
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getPhone: 179
+putOnTop: DOESNT_EXISTS
+for user: 150
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+for user: 150
+its own extra is 0
+total extra sum is 993
+makeMember: SUCCESS
+putOnTop: FAILURE
+getExpenses: DOESNT_EXISTS
+isMember: INVALID_INPUT
+getPhone: 213
+putOnTop: FAILURE
+for user: 17
+its own extra is 74
+total extra sum is 74
+for user: 17
+total expenses: 0
+discount: 74
+getExpenses: -74
+isMember: True
+getPlace: DOESNT_EXISTS
+buyRecord: SUCCESS
+addPrize: INVALID_INPUT
+getPlace: DOESNT_EXISTS
+getPhone: 186
+getPlace: column=1, hight=0
+putOnTop: FAILURE
+putOnTop: DOESNT_EXISTS
+for user: 50
+its own extra is -1046
+total extra sum is 139
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+getPhone: 105
+makeMember: ALREADY_EXISTS
+getPhone: 163
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+isMember: False
+putOnTop: FAILURE
+for user: 178
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addCostumer: ALREADY_EXISTS
+putOnTop: FAILURE
+getPhone: 102
+getPhone: 85
+buyRecord: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getExpenses: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+addCostumer: ALREADY_EXISTS
+isMember: False
+addPrize: SUCCESS
+putOnTop: FAILURE
+getPlace: column=1, hight=83
+buyRecord: SUCCESS
+isMember: DOESNT_EXISTS
+isMember: False
+for user: 92
+its own extra is -435
+total extra sum is 972
+for user: 92
+total expenses: 0
+discount: 972
+getExpenses: -972
+for user: 38
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+for user: 8
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+putOnTop: FAILURE
+addCostumer: ALREADY_EXISTS
+getPlace: column=1, hight=83
+putOnTop: FAILURE
+makeMember: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+addPrize: INVALID_INPUT
+getPhone: 36
+putOnTop: FAILURE
+addPrize: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=1, hight=12
+addPrize: INVALID_INPUT
+getPhone: 17
+addCostumer: ALREADY_EXISTS
+getPlace: column=1, hight=123
+for user: 214
+its own extra is 0
+total extra sum is 393
+makeMember: SUCCESS
+for user: 146
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addCostumer: ALREADY_EXISTS
+makeMember: ALREADY_EXISTS
+isMember: False
+for user: 86
+its own extra is 0
+total extra sum is 1386
+makeMember: SUCCESS
+makeMember: INVALID_INPUT
+getPlace: column=1, hight=123
+isMember: True
+getPlace: DOESNT_EXISTS
+isMember: True
+for user: 50
+its own extra is -93
+total extra sum is 1151
+for user: 50
+total expenses: 0
+discount: 1151
+getExpenses: -1151
+for user: 23
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+addPrize: INVALID_INPUT
+for user: 154
+its own extra is 0
+total extra sum is 59
+makeMember: SUCCESS
+for user: 156
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+addCostumer: ALREADY_EXISTS
+addPrize: SUCCESS
+putOnTop: FAILURE
+putOnTop: INVALID_INPUT
+addPrize: SUCCESS
+isMember: True
+putOnTop: INVALID_INPUT
+for user: 93
+its own extra is -439
+total extra sum is 1058
+makeMember: SUCCESS
+addPrize: INVALID_INPUT
+buyRecord: SUCCESS
+for user: 243
+its own extra is -1392
+total extra sum is 102
+for user: 243
+total expenses: 0
+discount: 102
+getExpenses: -102
+makeMember: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+putOnTop: FAILURE
+for user: 214
+its own extra is -393
+total extra sum is 90
+for user: 214
+total expenses: 0
+discount: 90
+getExpenses: -90
+addPrize: INVALID_INPUT
+addCostumer: INVALID_INPUT
+makeMember: ALREADY_EXISTS
+getPlace: DOESNT_EXISTS
+isMember: INVALID_INPUT
+isMember: True
+isMember: DOESNT_EXISTS
+isMember: False
+putOnTop: FAILURE
+for user: 0
+its own extra is 0
+total extra sum is 0
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+getPlace: column=1, hight=50
+makeMember: ALREADY_EXISTS

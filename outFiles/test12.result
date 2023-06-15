@@ -1,6 +1,15 @@
 newMonth: SUCCESS
+for user: 240
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
+for user: 73
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
+for user: 91
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 isMember: False
 getExpenses: DOESNT_EXISTS
@@ -15,6 +24,9 @@ getExpenses: DOESNT_EXISTS
 isMember: False
 isMember: False
 addPrize: SUCCESS
+for user: 118
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPhone: 98
 addPrize: INVALID_INPUT
@@ -29,8 +41,14 @@ buyRecord: SUCCESS
 buyRecord: SUCCESS
 getPlace: column=22, hight=0
 buyRecord: SUCCESS
+for user: 102
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getExpenses: DOESNT_EXISTS
+for user: 171
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPlace: column=27, hight=0
 getPlace: column=20, hight=0
@@ -38,29 +56,53 @@ buyRecord: SUCCESS
 getPhone: INVALID_INPUT
 putOnTop: SUCCESS
 getPhone: 98
+for user: 50
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 addPrize: INVALID_INPUT
 addPrize: SUCCESS
 buyRecord: SUCCESS
 putOnTop: DOESNT_EXISTS
+for user: 118
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
 getExpenses: DOESNT_EXISTS
 getPlace: column=19, hight=0
 isMember: False
+for user: 102
+its own extra is 0
+total extra sum is 0
 makeMember: SUCCESS
 getExpenses: DOESNT_EXISTS
 isMember: False
 getPlace: column=10, hight=0
 buyRecord: SUCCESS
+for user: 118
+its own extra is -0
+total extra sum is 0
+for user: 118
+total expenses: 0
+discount: 0
 getExpenses: 0
 buyRecord: SUCCESS
 getPhone: DOESNT_EXISTS
 isMember: DOESNT_EXISTS
 getPlace: column=24, hight=0
 addPrize: SUCCESS
+for user: 43
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 putOnTop: SUCCESS
 isMember: False
+for user: 102
+its own extra is -0
+total extra sum is 74
+for user: 102
+total expenses: 0
+discount: 74
 getExpenses: -74
 putOnTop: SUCCESS
 buyRecord: SUCCESS
@@ -86,6 +128,9 @@ addPrize: SUCCESS
 addPrize: SUCCESS
 makeMember: DOESNT_EXISTS
 getPlace: column=4, hight=0
+for user: 73
+its own extra is 0
+total extra sum is 304
 makeMember: SUCCESS
 getPhone: 142
 getExpenses: DOESNT_EXISTS
@@ -95,6 +140,9 @@ addCostumer: INVALID_INPUT
 putOnTop: SUCCESS
 getPhone: 127
 addPrize: SUCCESS
+for user: 159
+its own extra is 0
+total extra sum is 0
 addCostumer: SUCCESS
 getPlace: column=3, hight=0
 getExpenses: DOESNT_EXISTS
