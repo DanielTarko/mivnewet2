@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TESTS_TO_RUN=17
+TESTS_TO_RUN=1000
 EXECUTABLE=./prog
 
 RED='\033[0;31m'
@@ -10,7 +10,7 @@ NC='\033[0m' # No Color
 shopt -s nullglob
 FAILED_TESTS=""
 
-if ! g++ -std=c++11 -DNDEBUG -Wall *.cpp -o $EXECUTABLE; then
+if ! g++ -std=c++11 -DNDEBUG -Wall -g *.cpp -o $EXECUTABLE; then
   echo "Compilation Failed"
   exit 1
 fi
@@ -31,7 +31,7 @@ for i in inFiles/test*.in; do
     FAILED_TESTS+='-'
     FAILED_TESTS+='F'
   fi
-  valgrind --log-file=$i.valgrind_log --leak-check=full $EXECUTABLE <$i 1>/dev/null 2>/dev/null
+  valgrind --log-file=$i.valgrind_log --leak-check=full --show-leak-kinds=all $EXECUTABLE <$i 1>/dev/null 2>/dev/null
   if [ -f $i.valgrind_log ]; then
     cat $i.valgrind_log | grep "ERROR SUMMARY: 0" >/dev/null
     if [ $? -eq 0 ]; then

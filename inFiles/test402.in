@@ -1,198 +1,1385 @@
-getExpenses 669
-newMonth 5 [98 62 6 42 12]
-getPlace 0
-addCostumer 596 85591
-addPrize 596 596 206
-buyRecord 596 1
-buyRecord 596 5
-getExpenses 596
-getExpenses 596
-putOnTop 1 3
-getExpenses 596
-putOnTop 5 0
-buyRecord 596 4
-addPrize 596 596 882
-addPrize 596 596 343
-buyRecord 596 1
-getExpenses 596
-getPlace 0
-buyRecord 596 4
-buyRecord 596 4
-getPlace 0
-addPrize 596 596 66
-buyRecord 596 2
-putOnTop 5 5
-getExpenses 596
-getExpenses 596
-buyRecord 596 2
-makeMember 596
-getExpenses 596
-getExpenses 596
-addPrize 596 596 673
-putOnTop 2 3
-getExpenses 596
-addCostumer 742 74268
-buyRecord 596 5
-putOnTop 1 5
-putOnTop 5 4
-getPhone 810
-buyRecord 596 4
-buyRecord 742 5
-newMonth 62 [86 82 6 33 99 25 39 56 35 2 91 11 66 6 33 88 99 63 87 76 91 29 91 3 15 47 81 86 28 75 42 19 22 26 69 3 6 56 23 99 22 17 74 87 18 60 75 39 86 31 82 56 28 56 91 80 96 78 11 16 31 82]
-addPrize 633 679 491
-buyRecord 742 10
-isMember 742
-putOnTop 13 41
-putOnTop 14 20
-getExpenses 596
-buyRecord 596 35
-buyRecord 742 4
-addPrize 605 735 219
-getExpenses 596
-addPrize 672 691 256
-putOnTop 17 47
-getPlace 51
-putOnTop 48 41
-addPrize 618 639 817
-getExpenses 596
-addCostumer 365 54335
-addCostumer 628 17624
-addPrize 698 703 835
-makeMember 742
-getPlace 50
-buyRecord 628 61
-putOnTop 37 25
-addCostumer 531 36762
-buyRecord 596 26
-buyRecord 596 41
-makeMember 531
-putOnTop 18 20
-addCostumer 439 82639
-putOnTop 10 12
-getExpenses 596
-addPrize 636 699 109
-putOnTop 10 22
-getPlace 35
-putOnTop 38 30
-getExpenses 742
-buyRecord 742 34
-getExpenses 742
-getExpenses 531
-getPlace 44
-addCostumer 639 68264
-addCostumer 434 37804
-addPrize 398 522 741
-addPrize 573 644 553
-putOnTop 80 80
-makeMember 365
-getPlace 60
-getExpenses 531
-addCostumer 712 44491
-putOnTop 32 45
-addPrize 523 662 27
-makeMember 742
-putOnTop 20 58
-putOnTop 0 26
-makeMember 712
+makeMember 646
+getExpenses 646
+getExpenses 646
+getExpenses 646
+getExpenses 646
+getExpenses 646
+addCostumer 81 41578
+newMonth 99 [47 69 65 33 72 100 52 67 12 62 21 2 19 42 9 20 99 79 87 45 39 14 66 14 63 77 100 49 18 3 20 66 73 8 1 38 71 14 81 71 22 49 47 61 100 53 2 28 29 60 44 35 31 86 78 54 5 31 10 44 81 96 64 36 48 85 29 32 28 56 99 78 60 82 31 21 92 72 13 94 82 75 80 56 38 71 41 22 45 64 16 10 77 25 45 37 92 63 90]
+putOnTop 86 83
+buyRecord 81 5
+buyRecord 81 76
+addPrize 81 81 650
+getPlace 89
+putOnTop 53 58
+makeMember 81
+getExpenses 81
+putOnTop 70 94
 makeMember 439
-putOnTop 55 24
-makeMember 628
-getPlace 0
-putOnTop 2 7
-getPlace 32
-addPrize 681 702 874
-addPrize 724 728 677
-makeMember 639
-putOnTop 45 36
-buyRecord 596 37
-makeMember 974
-getExpenses 628
-getExpenses 628
-putOnTop 6 48
-putOnTop 42 37
-addPrize 608 629 260
-getPlace 32
-getExpenses 742
-getExpenses 742
-putOnTop 50 30
-getExpenses 628
-putOnTop 53 10
-addCostumer 204 38441
-putOnTop 11 30
-makeMember 204
-buyRecord 596 13
-putOnTop 60 19
-getPlace 6
-addCostumer 324 22336
-addPrize 669 723 382
-getExpenses 531
-addCostumer 654 57439
-buyRecord 596 2
-putOnTop 14 44
-addCostumer 528 94890
-getPlace 30
-buyRecord 531 2
-putOnTop 7 53
-addPrize 558 604 961
-putOnTop 48 20
-addCostumer 360 91415
+addCostumer 379 53897
+putOnTop 9 88
+addPrize 109 218 232
+buyRecord 81 51
+getExpenses 81
+getExpenses 646
+makeMember 379
+addPrize 308 336 676
+buyRecord 379 66
+addPrize 244 258 754
+getExpenses 439
+addPrize 92 206 584
+addPrize 362 379 640
+putOnTop 22 1
+makeMember 352
+getExpenses 646
+getExpenses 352
+getExpenses 352
+getExpenses 439
+getExpenses 646
+addCostumer 669 22117
+buyRecord 81 17
+makeMember 669
+addCostumer 751 68709
+makeMember 751
+getExpenses 439
+getPlace 27
+getExpenses 379
+buyRecord 751 52
+addCostumer 77 12189
+putOnTop 24 82
+addCostumer 619 95388
+newMonth 94 [85 54 23 18 24 47 68 96 59 41 2 52 8 45 93 63 68 22 69 56 57 48 57 14 66 69 26 97 71 37 100 37 58 56 21 98 32 81 77 32 47 48 27 76 90 63 75 78 36 92 42 73 15 14 72 12 67 10 66 96 38 32 84 61 51 60 92 17 33 24 54 23 51 81 54 15 57 97 38 43 91 37 12 21 46 84 76 30 77 68 14 43 68 65]
+getPlace 71
+buyRecord 81 68
+putOnTop 38 38
+putOnTop 36 85
+buyRecord 619 92
+makeMember 619
+buyRecord 379 67
+buyRecord 379 8
+buyRecord 669 73
+makeMember 77
+buyRecord 669 49
+getExpenses 751
+putOnTop 43 20
+addCostumer 53 98301
+getExpenses 352
+buyRecord 379 48
+getPlace 4
+getPlace 7
+addCostumer 734 96059
+addCostumer 457 61564
+addPrize 298 689 -4
+addCostumer 133 58529
+getExpenses 439
+newMonth 74 [79 44 93 56 63 39 78 28 33 6 93 1 84 4 52 69 71 36 76 94 19 54 29 54 56 74 24 99 99 67 45 48 35 23 51 23 23 60 20 92 25 56 70 64 84 8 94 19 15 46 71 64 9 29 8 85 100 7 71 5 8 77 44 3 35 100 89 78 23 2 54 58 7 51]
+addPrize 493 536 443
+putOnTop 65 37
+getPlace 62
+buyRecord 81 13
+addPrize 311 590 727
+makeMember 734
+getExpenses 439
+makeMember 457
+putOnTop 40 55
+putOnTop 47 10
+buyRecord 457 53
+getPlace 43
+makeMember 53
+putOnTop 31 65
 getPlace 47
-buyRecord 628 15
-makeMember 360
-makeMember 324
-getPlace 21
-makeMember 528
-addCostumer 167 35546
-addCostumer 615 75983
-makeMember 654
-getExpenses 596
-addCostumer 701 85460
-getPlace 31
-putOnTop 42 33
-addPrize 284 667 166
-putOnTop 22 4
-putOnTop 50 30
-addPrize 629 630 402
-getPlace 50
-putOnTop 36 36
-putOnTop 62 18
-getPlace 15
-putOnTop 32 58
-addPrize 233 521 341
-getExpenses 742
-makeMember 701
-putOnTop 20 18
-makeMember 615
-getPlace 52
-isMember 596
-putOnTop 14 59
-makeMember 167
-getPlace 15
-addPrize 584 600 67
-getExpenses 701
-addCostumer 870 91634
-addPrize 778 778 671
-isMember 654
-addCostumer 35 18880
-addCostumer 15 22603
-buyRecord 167 24
-getExpenses 167
-putOnTop 19 38
-putOnTop 61 25
-getPlace 33
-addPrize 848 849 149
+putOnTop 47 19
+addCostumer 703 26129
+addCostumer 260 28327
+getExpenses 77
+buyRecord 457 44
+addCostumer 927 32170
+getPlace 22
+makeMember 927
+getPlace 6
+makeMember 703
+getPlace 22
+putOnTop 21 45
+getPlace 4
+putOnTop 13 71
+putOnTop 51 68
+putOnTop 55 4
+getExpenses 669
+putOnTop 20 55
+getExpenses 927
+putOnTop 72 56
+putOnTop 23 22
+addPrize 901 919 463
+getPlace 4
+getExpenses 379
+buyRecord 751 58
+buyRecord 53 35
+getExpenses 646
+newMonth 98 [8 41 96 43 80 67 70 83 64 76 19 5 48 28 5 10 36 99 83 59 58 32 32 56 46 91 80 6 42 7 3 96 4 13 97 66 67 13 20 77 61 49 97 18 24 43 90 11 31 3 61 54 6 57 49 20 62 66 59 31 9 45 83 14 22 52 35 72 24 46 67 45 57 92 47 5 65 49 96 57 99 100 21 26 78 31 57 76 13 59 80 67 99 69 28 79 5 19]
+buyRecord 619 52
+getPlace 44
+putOnTop 24 83
+newMonth 92 [5 75 49 43 56 79 74 67 24 31 55 32 56 61 31 16 75 17 90 38 73 68 22 12 54 52 84 51 98 39 60 8 70 33 19 97 74 63 21 5 39 28 70 5 52 90 100 97 4 68 27 4 37 53 78 69 7 34 73 97 23 22 57 93 9 42 51 96 26 90 25 97 83 94 67 72 20 44 31 56 26 88 1 93 30 68 32 13 94 100 97 85]
+addCostumer 679 18252
+buyRecord 679 87
+makeMember 133
+getExpenses 133
+addPrize 324 451 905
+makeMember 679
+putOnTop 80 21
+buyRecord 81 12
+getExpenses 352
+getExpenses 646
+buyRecord 133 2
+putOnTop 58 86
+putOnTop 36 88
+putOnTop 36 57
+makeMember 260
+addPrize 904 925 442
+getPlace 87
+makeMember 121
+makeMember 400
 getPlace 13
-addPrize 629 847 740
+getPlace 31
+addCostumer 864 59855
+addPrize 810 820 738
+addPrize 150 240 460
+getPlace 66
+buyRecord 864 70
+addPrize 180 872 197
+getExpenses 734
+buyRecord 619 44
+addPrize 556 576 12
+addCostumer 297 33688
+putOnTop 42 48
+buyRecord 457 36
+newMonth 3 [41 69 38]
+addCostumer 698 53686
+getExpenses 133
+makeMember 864
+getPlace 3
+newMonth 69 [77 95 95 22 73 19 56 7 9 17 94 74 98 93 73 17 61 32 31 63 41 76 38 47 63 86 20 96 22 80 30 51 71 48 9 51 26 5 91 33 83 23 54 35 56 30 24 58 13 90 1 36 22 4 99 1 60 51 53 36 43 50 55 19 7 21 29 49 10]
+getPlace 20
+getExpenses 260
+putOnTop 37 47
+getExpenses 457
+addPrize 445 468 750
+getPlace 38
+getPlace 28
+getExpenses 457
+getExpenses 260
+buyRecord 260 33
+buyRecord 927 54
+getPlace 32
+buyRecord 297 24
+addCostumer 570 33722
+putOnTop 25 45
+makeMember 297
+putOnTop 65 42
+addPrize 90 872 548
+makeMember 570
+getExpenses 260
+buyRecord 379 0
+addCostumer 525 10107
+putOnTop 0 -2
+buyRecord 53 0
+putOnTop 54 5
+buyRecord 864 21
+addPrize 383 721 405
+addCostumer 162 67459
+putOnTop 18 66
+buyRecord 379 53
+getExpenses 669
+addPrize 271 791 779
+putOnTop 65 54
+makeMember 162
+buyRecord 679 64
+addPrize 405 921 665
+buyRecord 53 50
+getExpenses 864
+putOnTop 33 25
+makeMember 525
+buyRecord 297 66
+putOnTop 2 48
+putOnTop 51 62
+makeMember 698
+putOnTop 28 58
+addPrize 520 875 100
+getPlace 43
+putOnTop 25 25
+addCostumer 365 65986
+putOnTop 30 13
+getPlace 2
+addPrize 691 895 790
+addPrize 300 925 27
+buyRecord 927 27
+addPrize 554 643 618
+addPrize 437 646 683
+getPlace 0
+putOnTop 23 56
+getPlace 22
+addCostumer 689 26787
+getExpenses 297
+makeMember 365
+putOnTop 57 47
+addCostumer 454 10641
+putOnTop 30 44
+getPlace 58
+buyRecord 619 64
+addPrize 721 799 660
+buyRecord 365 63
+getExpenses 365
+addPrize 568 833 892
+addPrize 818 871 815
+addPrize 754 831 32
+addPrize 128 907 584
+addPrize 799 881 616
+addPrize 770 821 236
+addPrize 811 892 111
+getExpenses 162
+makeMember 689
+getPlace 8
+getPlace 7
+getExpenses 698
+makeMember 454
+getExpenses 679
+buyRecord 365 35
+getExpenses 260
+getExpenses 162
+makeMember 24
+isMember 619
+buyRecord 679 31
+addCostumer 483 6022
+buyRecord 698 8
+getPlace 17
+addCostumer 633 59264
+putOnTop 33 47
+putOnTop 8 55
+getPlace 55
+newMonth 97 [84 21 99 34 91 13 4 49 90 3 44 7 70 95 12 55 29 14 100 60 18 22 94 88 74 92 76 69 19 56 62 80 29 85 83 60 26 37 14 69 98 51 78 53 69 75 10 30 71 32 26 1 22 7 9 17 57 43 27 72 70 82 32 12 44 63 49 79 51 10 52 99 41 59 14 95 9 92 80 21 84 6 77 83 90 67 79 61 46 62 63 88 27 8 30 16 53]
+getExpenses 121
+putOnTop 9 27
+getPlace 82
+getPlace 24
+putOnTop 79 86
 getPlace 16
-addCostumer 584 12625
-putOnTop 42 55
-addPrize 38 131 331
-putOnTop 36 17
-putOnTop 44 15
-addPrize 38 384 106
-getExpenses 204
-buyRecord 584 17
-buyRecord 15 10
-addPrize 210 730 146
-getExpenses 596
-getExpenses 870
+addCostumer 500 31322
+buyRecord 77 85
+putOnTop 56 81
+makeMember 483
+buyRecord 483 46
+getPlace 33
+getPlace 50
+getPlace 96
+getPlace 33
+addPrize 174 408 112
+getPlace 34
+getExpenses 53
+makeMember 500
+addCostumer 376 53300
+addPrize 435 889 588
+putOnTop 44 89
+putOnTop 52 88
+putOnTop 91 86
+putOnTop 24 57
+makeMember 633
+putOnTop 53 82
+getExpenses 121
+getPlace 46
+getPlace 80
+putOnTop 34 76
+buyRecord 457 92
+getExpenses 439
+getExpenses 483
+addPrize 371 452 71
+putOnTop 74 63
+putOnTop 36 47
+putOnTop 33 79
+addCostumer 743 31828
+buyRecord 365 70
+buyRecord 619 26
+addCostumer 318 81131
+makeMember 376
+putOnTop 68 76
+buyRecord 318 63
+getPlace 49
+buyRecord 703 92
+addPrize 761 768 91
+addCostumer 719 50917
+buyRecord 81 38
+getExpenses 703
+putOnTop 51 35
+getExpenses 365
+getExpenses 669
+putOnTop 89 64
+buyRecord 454 95
+buyRecord 927 56
+getPlace 22
+addCostumer 184 73798
+makeMember 719
+makeMember 184
+getPlace 0
+getPlace 97
+addPrize 457 741 461
+getExpenses 864
+getExpenses 646
+addPrize 214 514 19
+putOnTop 57 35
+makeMember 318
+buyRecord 318 80
+getExpenses 376
+makeMember 743
+buyRecord 365 96
+getExpenses 318
+putOnTop 75 30
+getPlace 51
+makeMember 207
+putOnTop 96 44
+addCostumer 854 30058
+putOnTop 96 91
+makeMember 854
+addPrize 885 916 154
+getExpenses 439
+putOnTop 10 80
+putOnTop 2 14
+getPlace 16
+getPlace 75
+buyRecord 633 85
+addCostumer 599 95869
+putOnTop 25 34
+getExpenses 457
+addCostumer 179 88683
+putOnTop 85 3
+getExpenses 457
+makeMember 179
+getPlace 87
+addPrize 579 828 194
+getExpenses 854
+putOnTop 56 8
+getPlace 56
+addCostumer 168 55639
+addCostumer 37 15209
+buyRecord 669 50
+buyRecord 297 52
+putOnTop 93 16
+buyRecord 689 3
+getPhone 869
+makeMember 37
+buyRecord 703 94
+getPlace 44
+addCostumer 77 86696
+putOnTop 49 61
+addCostumer 686 65983
+getExpenses 633
+buyRecord 689 16
+putOnTop 39 8
+getPlace 93
+putOnTop 6 32
+addPrize 437 672 100
+addCostumer 174 48192
+putOnTop 80 59
+buyRecord 457 47
+buyRecord 743 27
+putOnTop 53 3
+getExpenses 698
+getPlace 50
+buyRecord 457 38
+getExpenses 53
+buyRecord 174 84
+getPlace 74
+putOnTop 89 85
+makeMember 686
+addPrize 831 908 744
+putOnTop 65 23
+putOnTop 72 76
+buyRecord 619 26
+putOnTop 5 64
+getExpenses 927
+getPlace 14
+getExpenses 184
+getExpenses 53
+putOnTop 37 36
+putOnTop 23 29
+getExpenses 352
+putOnTop 31 91
+addPrize 152 311 683
+putOnTop 62 17
+buyRecord 619 82
+getPlace 25
+getExpenses 686
+putOnTop 56 58
+getPlace 0
+getPhone 369
+putOnTop 29 1
+addPrize 707 848 958
+buyRecord 599 63
+getPlace 47
+getExpenses 719
+addCostumer 855 74940
+getPlace 89
+getPhone 2
+putOnTop 19 29
+makeMember 168
+getExpenses 53
+putOnTop 26 44
+getPlace 79
+buyRecord 379 27
+getExpenses 297
+isMember 184
+putOnTop 88 5
+addPrize 166 353 422
+buyRecord 633 16
+getExpenses 133
+addPrize 102 319 893
+addCostumer 770 95820
+getExpenses 454
+getExpenses 927
+getExpenses 703
+putOnTop 63 80
+addPrize 840 858 812
+addCostumer 672 54703
+buyRecord 365 76
+getExpenses 525
+buyRecord 689 17
+putOnTop 56 95
+makeMember 599
+putOnTop 61 29
+addCostumer 312 51325
+addCostumer 165 68882
+buyRecord 698 63
+putOnTop 88 4
+putOnTop 61 9
+getExpenses 679
+putOnTop 61 20
+buyRecord 719 90
+putOnTop 4 91
+putOnTop 44 5
+buyRecord 168 92
+putOnTop 46 81
+putOnTop 12 35
+getPlace 24
+makeMember 855
+putOnTop 62 78
+addPrize 718 893 465
+buyRecord 312 30
+getExpenses 179
+putOnTop 72 59
+getExpenses 719
+addPrize 369 369 818
+putOnTop 18 69
+getPlace 89
+getPlace 84
+getPlace 23
+putOnTop 60 17
+buyRecord 855 13
+buyRecord 376 40
+getPlace 92
+getExpenses 855
+putOnTop 82 93
+getPlace 53
+getExpenses 179
+getPhone 724
+putOnTop 23 24
+addPrize 824 855 694
+putOnTop 39 60
+addCostumer 883 19783
+putOnTop 67 90
+putOnTop 71 12
+addPrize 508 880 631
+buyRecord 318 20
+getExpenses 679
+buyRecord 168 16
+makeMember 672
+buyRecord 864 72
+makeMember 174
+addCostumer 447 55007
+putOnTop 95 75
+getExpenses 162
+addCostumer 234 94227
+makeMember 770
+getExpenses 599
+getExpenses 570
+putOnTop 96 34
+getPlace 75
+putOnTop 7 86
+buyRecord 864 18
+getExpenses 669
+addCostumer 565 22354
+putOnTop 76 52
+makeMember 165
+buyRecord 883 21
+makeMember 883
+addPrize 681 692 74
+getExpenses 365
+buyRecord 447 83
+putOnTop 73 24
+addPrize 845 881 873
+buyRecord 179 65
+putOnTop 27 28
+getPlace 97
+makeMember 447
+getPlace 59
+getPlace 75
+putOnTop 54 52
+addCostumer 732 53053
+putOnTop 72 43
+getPlace 77
+addPrize 499 746 144
+putOnTop 54 32
+putOnTop 50 78
+getPlace 9
+makeMember 565
+putOnTop 54 16
+getExpenses 770
+buyRecord 672 79
+putOnTop 83 27
+buyRecord 732 22
+addPrize 807 871 55
+putOnTop 16 50
+addPrize 489 586 772
+getPlace 0
+makeMember 312
+putOnTop 12 54
+putOnTop 21 7
+putOnTop 36 42
+getExpenses 743
+buyRecord 525 49
+getExpenses 376
+buyRecord 37 75
+getPlace 38
+addPrize 780 794 215
+addPrize 653 881 574
+getPlace 34
+putOnTop 51 36
+buyRecord 37 29
+buyRecord 77 14
+makeMember 234
+buyRecord 165 8
+getPlace 70
+addPrize 314 512 694
+buyRecord 525 52
+addPrize 798 853 374
+buyRecord 454 75
+getPlace 37
+makeMember 732
+getExpenses 379
+addCostumer 901 77368
+getPlace 36
+addPrize 469 723 436
+addCostumer 754 60572
+addCostumer 14 86624
+putOnTop 48 26
+addPrize 85 803 964
+getExpenses 672
+buyRecord 754 74
+addPrize 405 537 337
+buyRecord 81 45
+addCostumer 122 57919
+addPrize 694 901 804
+addPrize 442 605 885
+addCostumer 213 46240
+getPlace 89
+buyRecord 454 74
+getPlace 86
+buyRecord 855 79
+putOnTop 63 62
+newMonth 42 [60 28 25 97 90 12 74 91 38 98 20 2 59 35 35 65 3 62 47 38 84 36 47 48 9 92 68 32 78 13 100 71 34 54 65 3 18 43 85 12 91 27]
+putOnTop 34 14
+addPrize 193 619 727
+addPrize 835 839 825
+newMonth 13 [28 95 25 22 7 95 89 18 67 92 95 15 28]
+getExpenses 669
+putOnTop 12 6
+addCostumer 519 91583
+makeMember 213
+addCostumer 917 1693
+addPrize 566 690 984
+addCostumer 6 56753
+putOnTop 3 11
+buyRecord 379 4
+addPrize 216 678 153
+putOnTop 4 13
+getPlace 3
+addPrize 75 143 231
+addCostumer 237 38527
+putOnTop 8 9
+makeMember 519
+getPlace 2
+getPlace 13
+getExpenses 81
+addCostumer 232 14026
+getExpenses 669
+addPrize 718 920 665
+addCostumer 864 89346
+buyRecord 917 1
+addCostumer 482 26616
+getPlace 11
+putOnTop 12 6
+putOnTop 1 7
+putOnTop 6 10
+putOnTop 12 11
+putOnTop 8 13
+buyRecord 703 1
+putOnTop 11 2
+buyRecord 864 4
+getPlace 8
+buyRecord 719 0
+addPrize 351 512 412
+addPrize 915 926 787
+getExpenses 743
+buyRecord 998 341
+addPrize 271 589 577
+addCostumer 212 10985
+getPlace 6
+getPlace 1
+putOnTop 1 4
+addCostumer 96 14495
+addPrize 543 806 307
+getExpenses 24
+putOnTop 8 9
+addCostumer 504 39137
+addPrize 738 815 827
+makeMember 6
+buyRecord 864 7
+addCostumer 627 74209
+putOnTop 10 9
+makeMember 917
+getPlace 5
+getExpenses 447
+getExpenses 500
+addCostumer 158 6278
+makeMember 901
+buyRecord 743 6
+getPlace 9
+getExpenses 53
+buyRecord 179 2
+getPlace 13
+putOnTop 11 7
+buyRecord 376 11
+getExpenses 698
+putOnTop 7 3
+getExpenses 297
+buyRecord 179 3
+newMonth 61 [9 52 3 77 44 64 36 30 56 52 97 39 42 12 20 8 96 60 87 72 21 57 14 30 76 100 60 26 93 14 31 93 88 68 39 65 50 1 13 44 19 78 84 92 5 97 41 86 62 37 91 13 82 32 53 82 86 53 6 4 55]
+getPlace 11
+addPrize 510 896 168
+putOnTop 27 56
+putOnTop 35 26
+getExpenses 213
+getExpenses 439
+getExpenses 379
+addPrize 891 917 499
+addCostumer 171 97823
+putOnTop 52 22
+makeMember 482
+getPlace 45
+getPlace 24
+putOnTop 14 42
+addPrize 788 813 674
+addCostumer 995 58788
+makeMember 122
+putOnTop 11 16
+getPhone 822
+getExpenses 53
+getPlace 40
+getPlace 25
+putOnTop 50 57
+getExpenses 855
+putOnTop 4 51
+makeMember 96
+buyRecord 751 22
+addPrize 114 251 114
+getPhone 105
+addPrize 916 922 117
+getExpenses 519
+makeMember 212
+addPrize 779 858 637
+addCostumer 591 1382
+addPrize 247 322 799
+putOnTop 38 26
+getExpenses 672
+isMember 500
+getExpenses 483
+addPrize 75 232 609
+makeMember 504
+makeMember 232
+addCostumer 169 43882
+addPrize 689 894 350
+addPrize 941 967 136
+getExpenses 376
+putOnTop 5 17
+putOnTop 28 28
+getExpenses 312
+buyRecord 37 40
+getExpenses 565
+addPrize 464 900 239
+addCostumer 246 87516
+buyRecord 212 9
+newMonth 40 [52 4 63 60 76 11 91 27 43 84 50 29 22 11 77 90 71 88 5 88 33 20 89 54 87 59 1 31 88 100 39 83 100 87 85 12 64 65 51 96]
+addPrize 722 825 100
+newMonth 33 [81 42 3 48 20 65 69 58 10 29 13 86 24 30 8 22 39 42 71 83 72 67 83 23 40 29 85 67 97 74 18 99 60]
+getPlace 10
+putOnTop 3 22
+addCostumer 64 66897
+putOnTop 7 21
+getPlace 1
+putOnTop 24 8
+putOnTop 7 5
+makeMember 995
+getPlace 6
+putOnTop 10 32
+getPlace 24
+putOnTop 17 4
+getExpenses 379
+getPlace 32
+getPhone 85
+buyRecord 133 30
+getExpenses 365
+addPrize 412 959 863
+makeMember 591
+makeMember 171
+buyRecord 743 3
+putOnTop 5 18
+addPrize 791 855 994
+addPrize 310 962 810
+makeMember 627
+putOnTop 31 9
+putOnTop 20 30
+makeMember 237
+getPlace 20
+addPrize 426 523 895
+putOnTop 33 19
+addPrize 660 700 201
+addPrize 464 526 569
+getExpenses 734
+addPrize 490 600 859
+getPhone 562
+addPrize 513 829 752
+getExpenses 297
+makeMember 754
+makeMember 158
+buyRecord 379 14
+putOnTop 25 32
+getExpenses 122
+getPlace 0
+addCostumer 520 62333
+getPlace 33
+makeMember 14
+buyRecord 927 18
+putOnTop 22 17
+putOnTop 26 17
+putOnTop 16 16
+addPrize 105 391 651
+getExpenses 260
+putOnTop 4 23
+addPrize 581 631 116
+buyRecord 171 30
+makeMember 520
+getExpenses 179
+getPlace 17
+buyRecord 174 33
+addCostumer 779 42279
+makeMember 169
+getExpenses 37
+getPlace 21
+getExpenses 158
+buyRecord 165 6
+putOnTop 33 6
+makeMember 64
+putOnTop 5 27
+putOnTop 4 16
+buyRecord 179 5
+buyRecord 719 5
+addPrize 299 936 133
+addCostumer 663 24272
+buyRecord 379 16
+buyRecord 770 17
+addPrize 901 922 209
+getPlace 6
+makeMember 663
+buyRecord 64 0
+buyRecord 234 31
+getExpenses 591
+putOnTop 21 28
+buyRecord 500 4
+addCostumer 646 30151
+buyRecord 96 12
+buyRecord 525 18
+getExpenses 901
+addPrize 735 979 106
+addPrize 278 417 933
+putOnTop 8 17
+makeMember 246
+getPlace 6
+getExpenses 901
+putOnTop 12 19
+putOnTop 23 5
+makeMember 779
+getPlace 33
+addCostumer 721 53287
+getPlace 9
+getPlace 3
+getExpenses 482
+buyRecord 917 21
+addPrize 993 993 873
+getPlace 22
+putOnTop 13 8
+makeMember 721
+newMonth 87 [75 1 71 93 89 53 76 99 47 78 87 63 89 75 32 93 10 27 41 76 2 98 17 33 29 41 11 24 80 65 39 71 16 46 90 32 43 7 95 54 17 85 32 81 77 79 68 66 75 76 89 45 95 74 68 98 13 36 81 8 45 84 1 66 19 43 54 79 87 77 87 70 57 85 53 90 76 95 92 9 21 18 27 11 73 88 36]
+getPlace 73
+makeMember 647
+getExpenses 619
+putOnTop 25 84
+getPlace 6
+getExpenses 447
+putOnTop 46 52
+putOnTop 66 70
+addPrize 650 678 501
+addCostumer 926 61300
+buyRecord 179 55
+buyRecord 234 76
+getPlace 54
+buyRecord 743 78
+getPlace 74
+makeMember 926
+buyRecord 734 18
+addPrize 832 951 980
+makeMember 497
+buyRecord 454 80
+getExpenses 37
+getPlace 36
+getExpenses 927
+addPrize 995 995 531
+buyRecord 122 83
+addCostumer 327 25597
+putOnTop 83 28
+getPlace 37
+buyRecord 179 77
+buyRecord 168 67
+newMonth 78 [76 31 83 96 61 83 72 62 66 85 32 7 72 72 71 18 62 97 2 21 46 58 3 86 58 42 28 99 61 97 62 15 56 64 24 1 62 58 30 99 65 17 72 65 68 26 38 9 94 4 53 83 58 28 74 64 62 7 23 15 16 56 19 73 13 95 7 66 10 11 70 39 45 46 98 70 2 13]
+addPrize 478 782 549
+addPrize 154 199 212
+addPrize 142 334 503
+addPrize 727 975 874
+getExpenses 689
+putOnTop 33 15
+addCostumer 922 68035
+putOnTop 30 76
+putOnTop 50 57
+buyRecord 770 78
+getPlace -10
+putOnTop 97 57
+addPrize 942 948 790
+addCostumer 293 93137
+buyRecord 519 10
+getPlace 48
+makeMember 327
+buyRecord 158 0
+makeMember 922
+buyRecord 171 57
+addPrize 538 765 597
+putOnTop 27 25
+makeMember 293
+getPlace 28
+addCostumer 386 10277
+getExpenses 212
+makeMember 386
+addCostumer 363 20751
+buyRecord 669 54
+getExpenses 500
+addPrize 623 734 101
+putOnTop 41 73
+addPrize 256 765 41
+getPlace 50
+getExpenses 751
+getPlace 35
+putOnTop 76 78
+addPrize 923 937 368
+getPlace 25
+buyRecord 901 21
+addPrize 171 414 350
+getExpenses 732
+buyRecord 312 9
+makeMember 363
+addCostumer 174 26173
+putOnTop 37 12
+makeMember 176
+addPrize 117 454 438
+putOnTop 42 39
+putOnTop 49 63
+addCostumer 758 54247
+getPlace 16
+getExpenses 500
+addPrize 583 782 713
+getExpenses 779
+buyRecord 570 6
+getExpenses 212
+makeMember 758
+getExpenses 171
+addCostumer 3 27154
+makeMember 3
+buyRecord 901 19
+putOnTop 76 68
+getPlace 8
+putOnTop 10 75
+addCostumer 279 36188
+getExpenses 519
+getExpenses 207
+buyRecord 599 61
+putOnTop 37 2
+getExpenses 497
+getExpenses 327
+makeMember 279
+makeMember 813
+makeMember 578
+getExpenses 96
+buyRecord 917 6
+addPrize 617 620 837
+putOnTop 70 57
+buyRecord 77 53
+buyRecord 64 67
+getPlace 28
+addPrize 34 395 601
+getPlace 33
+putOnTop 4 27
+putOnTop 13 60
+addPrize 585 757 736
+addPrize 592 835 601
+buyRecord 379 74
+buyRecord 81 74
+putOnTop 55 32
+addCostumer 397 93172
+makeMember 397
+putOnTop 68 17
+buyRecord 363 74
+getExpenses 297
+putOnTop 52 76
+addCostumer 883 11632
+buyRecord 77 7
+getPlace 21
+addPrize 284 455 29
+getExpenses 24
+putOnTop 71 65
+buyRecord 96 26
+addCostumer 201 66147
+getPlace 9
+getExpenses 883
+addPrize 53 176 83
+makeMember 201
+buyRecord 162 43
+makeMember 399
+makeMember 523
+getExpenses 813
+buyRecord 520 45
+makeMember 101
+getExpenses 447
+newMonth 7 [74 91 52 4 90 49 61]
+newMonth 71 [77 62 1 28 16 90 52 12 85 10 29 53 29 81 21 65 58 13 94 76 77 81 91 4 85 95 22 4 85 90 99 37 37 46 77 93 49 86 84 24 28 3 83 17 96 44 48 46 25 59 39 89 61 85 50 20 48 87 36 48 44 40 20 25 11 24 70 87 1 9 38]
+getExpenses 162
+buyRecord 318 19
+putOnTop 20 49
+isMember 327
+addPrize 819 981 866
+addPrize 347 772 967
+getExpenses 169
+makeMember 39
+addPrize 561 845 928
+getPlace 41
+makeMember 518
+putOnTop 57 11
+getExpenses 6
+buyRecord 179 10
+addPrize 760 849 309
+putOnTop 20 1
+putOnTop 31 71
+addCostumer 383 6821
+buyRecord 883 49
+addCostumer 76 57757
+putOnTop 56 59
+addCostumer 528 1154
+getExpenses 689
+getExpenses 457
+getExpenses 565
+putOnTop 19 33
+buyRecord 213 15
+buyRecord 669 36
+buyRecord 212 33
+getPlace 37
+addPrize 510 962 609
+buyRecord 917 0
+addCostumer 665 8915
+makeMember 665
+buyRecord 679 14
+addCostumer 677 83226
+getPlace 0
+addCostumer 95 21957
+addPrize 418 785 70
+putOnTop 35 58
+getExpenses 162
+putOnTop 7 16
+addCostumer 259 79149
+putOnTop 28 9
+buyRecord 519 35
+putOnTop 1 59
+getPlace 14
+getPlace 42
+makeMember 383
+addPrize 547 929 336
+makeMember 259
+addCostumer 818 54270
+putOnTop 33 26
+putOnTop 18 7
+makeMember 76
+getPlace 39
+putOnTop 3 25
+addPrize 58 836 70
+getExpenses 686
+getPlace 5
+getPlace 14
+buyRecord 926 19
+getExpenses 6
+buyRecord 454 64
+buyRecord 76 15
+putOnTop 25 70
+buyRecord 758 32
+getPlace 30
+buyRecord 14 51
+getExpenses 719
+putOnTop 26 11
+makeMember 95
+addCostumer 985 20207
+putOnTop 50 1
+makeMember 818
+buyRecord 457 53
+putOnTop 15 5
+getPlace 70
+putOnTop 71 47
+getExpenses 397
+makeMember 528
+getExpenses 927
+getPlace 17
+putOnTop 29 69
+addPrize 947 698 -8
+makeMember 162
+getExpenses 293
+getPlace 1
+makeMember 677
+putOnTop 22 32
+addPrize 666 781 983
+addCostumer 531 92059
+putOnTop 15 39
+makeMember 985
+putOnTop 45 67
+getExpenses 504
+addPrize 335 806 702
+putOnTop 47 49
+getPlace 10
+putOnTop 30 9
+getPlace 8
+getPlace 20
+getPlace 0
+getExpenses 523
+putOnTop 29 46
+buyRecord 179 0
+makeMember 531
+buyRecord 122 56
+putOnTop 44 8
+getPlace 10
+addPrize 536 818 202
+addPrize 7 871 386
+addCostumer 233 59157
+buyRecord 260 30
+getExpenses 158
+putOnTop 48 20
+getExpenses 234
+getExpenses 743
+putOnTop 51 49
+makeMember 233
+getExpenses 397
+getPlace 2
+addPrize 301 531 861
+putOnTop 19 30
+addPrize 400 979 8
+makeMember 958
+makeMember 730
+putOnTop 22 59
+makeMember 960
+putOnTop 57 35
+buyRecord 232 66
+getPlace 64
+putOnTop 43 69
+addPrize 958 970 504
+getPlace 16
+addPrize 313 912 361
+getExpenses 234
+getExpenses 883
+putOnTop 45 47
+addCostumer 348 64280
+putOnTop 1 23
+buyRecord 37 15
+getPlace 67
+buyRecord 259 49
+buyRecord 260 33
+addCostumer 690 69837
+putOnTop 40 59
+putOnTop 49 24
+getPlace 38
+addCostumer 724 16613
+putOnTop 19 50
+putOnTop 65 3
+getPlace 1
+buyRecord 3 45
+buyRecord 259 40
+makeMember 724
+putOnTop 57 36
+getExpenses 724
+putOnTop 29 51
+buyRecord 279 49
+putOnTop 55 61
+getExpenses 528
+addPrize 219 563 227
+putOnTop 4 52
+getPlace 15
+getPhone 598
+putOnTop 39 30
+makeMember 348
+getPlace 42
+makeMember 690
+addPrize 557 826 431
+buyRecord 64 31
+buyRecord 212 62
+addPrize 700 801 591
+buyRecord 570 18
+isMember 379
+getExpenses 293
+makeMember 932
+addPrize 843 855 878
+getPlace 14
+addPrize 103 416 304
+addCostumer 967 78140
+putOnTop 56 16
+addCostumer 955 48269
+putOnTop 35 55
+putOnTop 51 4
+putOnTop 9 62
+getExpenses 591
+getPlace 63
+buyRecord 570 37
+addPrize 440 596 215
+addCostumer 168 80416
+addPrize 239 834 420
+addCostumer 393 62831
+getPlace 27
+addPrize 57 139 807
+buyRecord 53 37
+getExpenses 504
+getExpenses 779
+getExpenses 818
+addPrize 294 660 60
+getPlace 49
+addPrize 107 533 325
+getPlace 7
+getExpenses 646
+getExpenses 121
+buyRecord 174 6
+buyRecord 158 28
+getPlace 17
+addPrize 723 810 876
+makeMember 955
+addPrize 627 963 754
+addPrize 290 631 145
+getPlace 58
+getPlace 53
+buyRecord 379 31
+addPrize 766 847 305
+buyRecord 721 68
+getExpenses 751
+buyRecord 528 0
+addCostumer 665 17856
+getExpenses 3
+putOnTop 60 57
+buyRecord 669 25
+addPrize 312 384 560
+addPrize 737 808 160
+buyRecord 365 67
+putOnTop 35 32
+addCostumer 415 63445
+putOnTop 64 53
+makeMember 393
+putOnTop 22 69
+getExpenses 393
+getPlace 52
+getPlace 6
+getPlace 43
+putOnTop -1 11
+getPlace 25
+buyRecord 599 64
+getPlace 45
+buyRecord 779 17
+buyRecord 213 53
+addCostumer 963 63581
+getPlace 52
+addPrize 802 910 908
+putOnTop 47 54
+getPlace 7
+getPlace 10
+putOnTop 61 24
+getExpenses 399
+getExpenses 457
+getPlace 53
+makeMember 967
+getExpenses 955
+getPlace 5
+putOnTop 51 50
+getPlace 67
+putOnTop 17 29
+makeMember 963
+addPrize 208 675 373
+addPrize 243 762 525
+putOnTop 61 67
+getPlace 37
+addCostumer 22 6429
+addCostumer 123 89128
+putOnTop 39 59
+addPrize 711 993 444
+addPrize 233 946 611
+getExpenses 95
+putOnTop 39 30
+addPrize 468 762 156
+addPrize 541 680 250
+addCostumer 849 7120
+addPrize 439 971 333
+addPrize 411 534 914
+buyRecord 363 25
+getPlace 3
+newMonth 62 [47 95 67 92 98 21 27 22 43 93 66 22 32 40 59 34 68 54 68 94 13 84 22 38 33 15 32 17 42 85 84 100 79 33 3 76 89 73 72 37 54 11 65 94 30 79 34 84 22 81 31 31 77 72 58 65 48 98 44 80 80 40]
+getExpenses 232
+getPlace 10
+makeMember 123
+makeMember 22
+addPrize 483 880 533
+putOnTop 48 30
+getExpenses 955
+putOnTop 10 48
+buyRecord 6 16
+addPrize 546 861 379
+buyRecord 864 27
+putOnTop 39 37
+buyRecord 985 50
+getPlace 2
+makeMember 849
+addCostumer 336 21907
+putOnTop 52 34
+makeMember 336
+putOnTop 58 5
+getPlace -1
+buyRecord 565 20
+putOnTop 24 11
+getExpenses 439
+addPrize 232 866 988
+getPlace 44
+addCostumer 980 80962
+putOnTop 12 56
+getExpenses 721
+putOnTop 45 34
+buyRecord 260 48
+addCostumer 440 40506
+makeMember 980
+makeMember 440
+getExpenses 483
+getExpenses 849
+getExpenses 121
+putOnTop 53 29
+getExpenses 518
+getExpenses 168
+putOnTop 15 34
+newMonth 27 [60 21 45 39 12 78 69 76 40 57 56 21 29 97 76 34 10 98 12 88 87 28 35 49 20 43 55]
+putOnTop 12 26
+addCostumer 500 83284
+addCostumer 304 33888
+addCostumer 304 19541
+addCostumer 484 88881
+makeMember 415
+getPlace 16
+addPrize 129 862 874
+getPlace 16
+getExpenses 158
+getPlace 24
+addPrize 475 787 35
+addPrize 597 739 499
+buyRecord 591 8
+buyRecord 37 13
+buyRecord 669 23
+makeMember 484
+getExpenses 447
+putOnTop 3 17
+putOnTop 14 15
+getPlace 17
+addPrize 770 854 431
+addPrize 252 626 73
+buyRecord 184 15
+getPlace 20
+getExpenses 689
+makeMember 304
+makeMember 466
+getExpenses 963
+addCostumer 485 44820
+addCostumer 308 59734
+putOnTop 5 18
+putOnTop 14 13
+addPrize 287 555 315
+getExpenses -9
+getExpenses 646
+addPrize 18 331 387
+getPlace 10
+putOnTop 1 20
+getPlace 27
+getExpenses 179
+buyRecord 599 9
+addPrize 307 627 127
+getExpenses 379
+getExpenses 646
+makeMember 485
+addPrize 805 877 69
+putOnTop 14 18
+getExpenses 570
+getPlace 4
+putOnTop 5 21
+makeMember 308
+getPlace 10
+buyRecord 457 0
+getPlace 21
+addPrize 290 871 874
+getPlace 16
+putOnTop 1 13
+getPlace 10
+putOnTop 13 25
+buyRecord 213 7
+buyRecord 926 8
+buyRecord 565 7
+getPlace 22
+getPlace 27
+getExpenses 14
+putOnTop 27 25
+buyRecord 500 19
+getPlace 6
+makeMember 932
+getExpenses 169
+makeMember 636
+buyRecord 297 22
+getPlace 15
+getExpenses 864
+getExpenses 813
+getExpenses -3
+addPrize 499 747 899
+addCostumer 811 74384
+addCostumer 335 14865
+getPlace 18
+putOnTop 7 23
+putOnTop 3 23
+getExpenses 520
+addPrize 568 891 35
+getPlace 20
+buyRecord 504 15
+makeMember 335
+buyRecord 447 22

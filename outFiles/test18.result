@@ -1,714 +1,1797 @@
-makeMember: DOESNT_EXISTS
-newMonth: SUCCESS
+addPrize: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
+addPrize: INVALID_INPUT
+getExpenses: DOESNT_EXISTS
 addCostumer: SUCCESS
-getPlace: column=14, hight=0
+getExpenses: DOESNT_EXISTS
+makeMember: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+getExpenses: 0
+getExpenses: 0
+makeMember: SUCCESS
+getExpenses: 0
+makeMember: SUCCESS
+addPrize: SUCCESS
+getExpenses: 0
+getExpenses: 0
+isMember: True
+addCostumer: SUCCESS
+addPrize: SUCCESS
+newMonth: SUCCESS
+buyRecord: SUCCESS
+getExpenses: 100
+getPlace: column=37, hight=0
+addPrize: SUCCESS
+makeMember: SUCCESS
 addCostumer: SUCCESS
 putOnTop: SUCCESS
 buyRecord: SUCCESS
+getExpenses: 100
+putOnTop: SUCCESS
+makeMember: SUCCESS
+addCostumer: SUCCESS
+getExpenses: 0
+getPlace: column=35, hight=0
+getPlace: column=28, hight=0
+getPlace: column=27, hight=0
+makeMember: SUCCESS
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+putOnTop: DOESNT_EXISTS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+getExpenses: -242
+putOnTop: SUCCESS
+makeMember: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=10, hight=0
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getExpenses: 100
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=0, hight=0
+getPlace: column=21, hight=98
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getPlace: column=41, hight=0
+getPlace: column=23, hight=0
+addCostumer: SUCCESS
+getExpenses: -1285
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getExpenses: -1242
+makeMember: SUCCESS
+getPlace: column=36, hight=0
+buyRecord: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: DOESNT_EXISTS
+makeMember: SUCCESS
+getExpenses: -1623
+getExpenses: -158
+addPrize: SUCCESS
+addCostumer: SUCCESS
+buyRecord: DOESNT_EXISTS
+getPlace: column=41, hight=0
+addCostumer: SUCCESS
+makeMember: SUCCESS
+getExpenses: -1623
+addCostumer: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=41, hight=125
+getExpenses: 0
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+addPrize: SUCCESS
 buyRecord: SUCCESS
 buyRecord: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=24, hight=0
+getPlace: column=10, hight=19
+addPrize: SUCCESS
+makeMember: SUCCESS
+getExpenses: -314
+addPrize: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+putOnTop: FAILURE
+makeMember: SUCCESS
+getExpenses: -2776
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+addCostumer: SUCCESS
+newMonth: SUCCESS
+addCostumer: SUCCESS
+buyRecord: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=3, hight=0
+getExpenses: 0
+putOnTop: SUCCESS
 putOnTop: SUCCESS
 getExpenses: DOESNT_EXISTS
 buyRecord: SUCCESS
-getPlace: INVALID_INPUT
+getPlace: column=8, hight=0
+newMonth: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+getPlace: column=32, hight=0
+makeMember: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=69, hight=0
+getPlace: column=52, hight=0
+addPrize: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+getPlace: column=60, hight=0
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
+getExpenses: 100
+getPlace: column=66, hight=0
+getPlace: column=35, hight=0
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: -265
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -346
+addPrize: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: 0
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=19, hight=0
+getExpenses: -346
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=67, hight=0
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+getPlace: column=29, hight=0
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -478
+putOnTop: SUCCESS
+makeMember: SUCCESS
+getExpenses: -232
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=4, hight=0
+getPlace: column=11, hight=0
+getExpenses: -378
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getPlace: DOESNT_EXISTS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=12, hight=262
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -936
+makeMember: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+putOnTop: SUCCESS
+getPlace: column=55, hight=69
+getPlace: column=51, hight=0
+buyRecord: SUCCESS
+getExpenses: -478
+getExpenses: -578
+makeMember: DOESNT_EXISTS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+addCostumer: SUCCESS
+getPhone: DOESNT_EXISTS
+addCostumer: SUCCESS
+getPlace: column=77, hight=0
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=15, hight=0
+putOnTop: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=55, hight=69
+getExpenses: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+getPlace: column=35, hight=0
+putOnTop: SUCCESS
+makeMember: DOESNT_EXISTS
+addCostumer: SUCCESS
+getExpenses: -399
+putOnTop: SUCCESS
+makeMember: SUCCESS
+makeMember: DOESNT_EXISTS
+buyRecord: SUCCESS
+makeMember: DOESNT_EXISTS
+buyRecord: SUCCESS
+getExpenses: -936
+makeMember: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+getPlace: column=27, hight=124
+addPrize: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPhone: DOESNT_EXISTS
+getExpenses: -959
+getExpenses: -959
+makeMember: DOESNT_EXISTS
+putOnTop: SUCCESS
+getPlace: column=77, hight=0
+makeMember: DOESNT_EXISTS
+getPlace: column=12, hight=395
+getExpenses: -578
+putOnTop: SUCCESS
+getPlace: column=60, hight=113
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=54, hight=0
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: -551
+getPlace: column=0, hight=0
+getPlace: column=51, hight=0
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=23, hight=0
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+addCostumer: SUCCESS
+getPlace: column=41, hight=53
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -132
+addPrize: SUCCESS
+getPlace: column=23, hight=11
+buyRecord: SUCCESS
+getPlace: DOESNT_EXISTS
+getPlace: column=75, hight=40
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=51, hight=0
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -580
+getPlace: column=4, hight=97
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+getPlace: column=55, hight=69
+makeMember: SUCCESS
+getPlace: column=27, hight=124
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+getPlace: column=12, hight=388
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+isMember: True
+getPlace: column=72, hight=149
+putOnTop: SUCCESS
+getExpenses: -936
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=31, hight=0
+buyRecord: SUCCESS
+getExpenses: -71
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=27, hight=33
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getPlace: column=41, hight=56
+getExpenses: 0
+addCostumer: SUCCESS
+getExpenses: -1133
+newMonth: SUCCESS
+getExpenses: 0
 getPlace: column=1, hight=0
 putOnTop: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=5, hight=0
+makeMember: SUCCESS
+putOnTop: SUCCESS
 addCostumer: SUCCESS
-makeMember: SUCCESS
+addPrize: SUCCESS
 getExpenses: 0
-getPlace: column=20, hight=0
-getExpenses: 0
-makeMember: SUCCESS
 getExpenses: DOESNT_EXISTS
 putOnTop: SUCCESS
-getPlace: column=66, hight=0
-addPrize: SUCCESS
-newMonth: SUCCESS
-getPlace: column=6, hight=0
-putOnTop: SUCCESS
-getPlace: DOESNT_EXISTS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-getPlace: DOESNT_EXISTS
-buyRecord: SUCCESS
-makeMember: SUCCESS
-getExpenses: 200
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=7, hight=0
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
-newMonth: SUCCESS
-addPrize: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
 addCostumer: SUCCESS
 buyRecord: SUCCESS
 buyRecord: SUCCESS
-addCostumer: SUCCESS
-makeMember: SUCCESS
-makeMember: SUCCESS
-getExpenses: 0
-getExpenses: 0
 putOnTop: SUCCESS
-makeMember: SUCCESS
-getPlace: column=15, hight=0
-addCostumer: SUCCESS
-getPlace: column=13, hight=0
-getExpenses: 0
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=23, hight=0
-makeMember: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
-getPlace: column=24, hight=147
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-addPrize: SUCCESS
-makeMember: SUCCESS
-buyRecord: SUCCESS
-getExpenses: 0
-addPrize: SUCCESS
-makeMember: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-addPrize: SUCCESS
-getExpenses: 200
-addPrize: SUCCESS
-makeMember: SUCCESS
-buyRecord: SUCCESS
-buyRecord: DOESNT_EXISTS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=24, hight=147
-getExpenses: -1774
-getPlace: column=17, hight=79
-putOnTop: SUCCESS
-getExpenses: 0
-getExpenses: -745
 getPlace: column=9, hight=0
-getPlace: column=20, hight=0
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getPlace: column=14, hight=0
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=16, hight=130
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: DOESNT_EXISTS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
 buyRecord: SUCCESS
 putOnTop: SUCCESS
-getExpenses: 100
+putOnTop: SUCCESS
+putOnTop: DOESNT_EXISTS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+putOnTop: DOESNT_EXISTS
+getPlace: column=21, hight=122
+getExpenses: -684
+putOnTop: DOESNT_EXISTS
+addCostumer: SUCCESS
+getPlace: column=16, hight=75
+getExpenses: -1036
+getPlace: column=9, hight=0
+getPlace: column=16, hight=130
+getExpenses: -784
+makeMember: SUCCESS
+getPlace: column=0, hight=0
+addCostumer: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+buyRecord: DOESNT_EXISTS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
 getExpenses: DOESNT_EXISTS
 buyRecord: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=16, hight=446
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=6, hight=561
+addPrize: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+putOnTop: FAILURE
+getPlace: column=6, hight=298
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+putOnTop: FAILURE
+putOnTop: SUCCESS
+makeMember: DOESNT_EXISTS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=6, hight=561
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -2608
+getExpenses: DOESNT_EXISTS
+putOnTop: FAILURE
+addCostumer: SUCCESS
+getPlace: column=6, hight=837
+getPlace: column=3, hight=0
+getPlace: column=6, hight=501
+putOnTop: FAILURE
+putOnTop: FAILURE
+addPrize: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+getPlace: column=9, hight=42
+getPlace: column=6, hight=837
+getExpenses: -3509
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: -1237
+getExpenses: -2328
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getExpenses: -1236
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=6, hight=160
+buyRecord: SUCCESS
+getPlace: column=6, hight=105
+getPlace: column=6, hight=160
+addCostumer: ALREADY_EXISTS
+putOnTop: FAILURE
+putOnTop: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=6, hight=1085
+putOnTop: FAILURE
+putOnTop: FAILURE
+addPrize: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: -428
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+getPlace: column=0, hight=0
+buyRecord: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=20, hight=0
+buyRecord: DOESNT_EXISTS
+makeMember: SUCCESS
+getExpenses: -1418
+putOnTop: DOESNT_EXISTS
+addPrize: SUCCESS
+getPlace: column=6, hight=160
+getExpenses: DOESNT_EXISTS
+makeMember: SUCCESS
 getExpenses: -3393
 buyRecord: SUCCESS
-getPlace: column=17, hight=179
-putOnTop: SUCCESS
-addPrize: SUCCESS
-makeMember: SUCCESS
-getPlace: column=6, hight=180
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -1207
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-newMonth: SUCCESS
-addPrize: SUCCESS
-getExpenses: 0
-getPlace: column=27, hight=0
-getPlace: column=7, hight=0
-addPrize: SUCCESS
-addPrize: SUCCESS
-getPlace: column=26, hight=0
-getPlace: column=26, hight=0
-putOnTop: DOESNT_EXISTS
-getPlace: column=8, hight=0
-putOnTop: SUCCESS
-makeMember: SUCCESS
-buyRecord: SUCCESS
-getExpenses: 0
-makeMember: SUCCESS
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-buyRecord: SUCCESS
-getPlace: column=21, hight=0
-getPlace: column=21, hight=0
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=13, hight=0
-addCostumer: SUCCESS
-getExpenses: -722
-getPlace: column=13, hight=0
-getExpenses: 0
-addCostumer: SUCCESS
-getPlace: column=26, hight=0
-buyRecord: SUCCESS
-getExpenses: -722
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-getExpenses: 100
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=7, hight=0
-getPlace: column=22, hight=52
-putOnTop: SUCCESS
-getPlace: column=7, hight=0
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-makeMember: SUCCESS
-isMember: True
-addCostumer: SUCCESS
-makeMember: SUCCESS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-getExpenses: -1227
-getPlace: column=22, hight=0
-putOnTop: SUCCESS
-addPrize: SUCCESS
-addPrize: SUCCESS
-getPlace: column=16, hight=0
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
-getExpenses: 0
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-putOnTop: DOESNT_EXISTS
-getPlace: column=20, hight=0
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-makeMember: SUCCESS
-putOnTop: SUCCESS
-getPhone: DOESNT_EXISTS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
-buyRecord: SUCCESS
-makeMember: SUCCESS
-addPrize: SUCCESS
-getExpenses: -906
-addCostumer: SUCCESS
-makeMember: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-getExpenses: -1728
-makeMember: SUCCESS
-getPlace: column=25, hight=0
-getExpenses: -805
-getPlace: column=25, hight=324
-getExpenses: -1791
-putOnTop: SUCCESS
-addPrize: SUCCESS
-getPlace: column=21, hight=326
-getPlace: column=21, hight=264
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=25, hight=139
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
 putOnTop: FAILURE
-buyRecord: SUCCESS
-getExpenses: -2973
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-makeMember: SUCCESS
-addCostumer: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=2, hight=205
-putOnTop: FAILURE
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-getExpenses: -1700
-buyRecord: DOESNT_EXISTS
-addPrize: SUCCESS
-getExpenses: -1401
-buyRecord: SUCCESS
-newMonth: SUCCESS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-makeMember: SUCCESS
-getExpenses: 0
-addCostumer: SUCCESS
-getPlace: column=92, hight=0
-addPrize: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-getExpenses: -618
-getPlace: column=65, hight=0
-addPrize: SUCCESS
-newMonth: SUCCESS
-getExpenses: 0
-addPrize: SUCCESS
-getExpenses: 0
-putOnTop: SUCCESS
-getExpenses: 0
-putOnTop: SUCCESS
-makeMember: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-getExpenses: 0
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-addCostumer: SUCCESS
 getExpenses: DOESNT_EXISTS
-putOnTop: SUCCESS
-getExpenses: 100
-getPlace: column=39, hight=0
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=62, hight=0
-isMember: True
-getPlace: column=23, hight=0
-getPlace: column=24, hight=0
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-getExpenses: 0
-putOnTop: DOESNT_EXISTS
-getExpenses: 100
-addCostumer: SUCCESS
+getExpenses: INVALID_INPUT
+getPlace: INVALID_INPUT
+getExpenses: -2269
+getPlace: column=6, hight=750
+getExpenses: -5983
 addPrize: SUCCESS
-makeMember: SUCCESS
-getPlace: column=32, hight=0
-buyRecord: SUCCESS
-isMember: True
-makeMember: SUCCESS
 addCostumer: SUCCESS
-getPlace: column=33, hight=0
-makeMember: SUCCESS
+getExpenses: -1899
+getPlace: column=6, hight=396
+getExpenses: DOESNT_EXISTS
+getExpenses: -3121
+getPlace: column=1, hight=0
 buyRecord: SUCCESS
-getExpenses: 0
-getExpenses: -445
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=4, hight=112
-makeMember: SUCCESS
-addCostumer: SUCCESS
-addCostumer: SUCCESS
+getPlace: column=6, hight=298
+getExpenses: -528
+getPlace: column=6, hight=632
 buyRecord: SUCCESS
-getPlace: column=61, hight=9
-getPlace: column=25, hight=0
-buyRecord: SUCCESS
-getExpenses: 0
-getPlace: column=46, hight=1
-isMember: True
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-getExpenses: 0
-buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
 addPrize: SUCCESS
 addPrize: SUCCESS
-addPrize: SUCCESS
-makeMember: SUCCESS
-newMonth: SUCCESS
-getPlace: column=5, hight=0
-getPlace: column=68, hight=0
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-makeMember: SUCCESS
-makeMember: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=15, hight=0
-buyRecord: SUCCESS
-getPlace: column=22, hight=0
-putOnTop: SUCCESS
-getExpenses: 0
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=21, hight=0
-makeMember: SUCCESS
-buyRecord: DOESNT_EXISTS
-buyRecord: DOESNT_EXISTS
-addPrize: SUCCESS
-putOnTop: SUCCESS
+getPlace: column=6, hight=813
+putOnTop: FAILURE
 makeMember: SUCCESS
 addPrize: SUCCESS
+getExpenses: DOESNT_EXISTS
+addCostumer: SUCCESS
+putOnTop: FAILURE
 buyRecord: SUCCESS
 addCostumer: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=51, hight=25
-getExpenses: -64
 addPrize: SUCCESS
-putOnTop: SUCCESS
+putOnTop: FAILURE
+putOnTop: FAILURE
+makeMember: SUCCESS
+buyRecord: SUCCESS
 buyRecord: SUCCESS
 addPrize: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -1286
-getPlace: column=35, hight=0
-getExpenses: -396
-getPlace: column=66, hight=35
-getExpenses: -332
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-makeMember: SUCCESS
-getPlace: column=56, hight=0
-buyRecord: SUCCESS
-makeMember: SUCCESS
-getExpenses: 36
-addCostumer: SUCCESS
-makeMember: SUCCESS
+getPlace: column=6, hight=476
 addPrize: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -396
-getExpenses: -296
-getExpenses: -381
-getExpenses: 0
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-getPlace: column=17, hight=0
-putOnTop: SUCCESS
 makeMember: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=23, hight=0
+makeMember: SUCCESS
+putOnTop: FAILURE
+getExpenses: -2848
+putOnTop: FAILURE
+addPrize: SUCCESS
 buyRecord: SUCCESS
-getExpenses: 0
+makeMember: SUCCESS
+putOnTop: FAILURE
+getPlace: column=6, hight=476
+addPrize: SUCCESS
 addCostumer: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -1286
+getPlace: column=6, hight=563
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=6, hight=501
+putOnTop: FAILURE
+addCostumer: SUCCESS
+getExpenses: -4896
+addCostumer: SUCCESS
+getPlace: column=6, hight=105
 addCostumer: ALREADY_EXISTS
+putOnTop: FAILURE
+addPrize: SUCCESS
+getPlace: column=6, hight=632
+putOnTop: SUCCESS
+getPlace: column=6, hight=750
 addPrize: SUCCESS
 putOnTop: SUCCESS
-putOnTop: SUCCESS
-makeMember: SUCCESS
-addPrize: SUCCESS
-getPlace: column=36, hight=0
-buyRecord: SUCCESS
-makeMember: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -332
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=21, hight=0
-addCostumer: SUCCESS
-buyRecord: SUCCESS
-addPrize: SUCCESS
-addPrize: SUCCESS
-getPlace: column=11, hight=0
-makeMember: SUCCESS
-buyRecord: SUCCESS
-makeMember: SUCCESS
-addCostumer: SUCCESS
-buyRecord: SUCCESS
-getExpenses: -1017
-buyRecord: SUCCESS
-addPrize: SUCCESS
-getExpenses: 100
-getPlace: column=15, hight=0
-buyRecord: SUCCESS
-getPlace: column=70, hight=0
-makeMember: SUCCESS
-buyRecord: SUCCESS
-makeMember: SUCCESS
-addCostumer: SUCCESS
-addCostumer: SUCCESS
-getExpenses: -1202
-getExpenses: -2385
-getPlace: column=77, hight=0
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-getExpenses: -2089
-addPrize: SUCCESS
-makeMember: SUCCESS
-getExpenses: -755
-putOnTop: SUCCESS
-getExpenses: 0
-getPlace: column=36, hight=0
-getExpenses: -2189
-getExpenses: 36
-addCostumer: SUCCESS
+addCostumer: ALREADY_EXISTS
+getPlace: column=3, hight=0
 addPrize: SUCCESS
 getPlace: column=3, hight=0
-addCostumer: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+getPlace: column=6, hight=750
+getExpenses: DOESNT_EXISTS
 buyRecord: SUCCESS
-getPlace: column=36, hight=376
-putOnTop: SUCCESS
+getExpenses: -326
+getExpenses: DOESNT_EXISTS
+putOnTop: FAILURE
+addCostumer: SUCCESS
+putOnTop: FAILURE
 buyRecord: DOESNT_EXISTS
+getPlace: column=6, hight=1085
 addPrize: SUCCESS
-buyRecord: SUCCESS
-getExpenses: -1603
-getPlace: column=17, hight=0
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=4, hight=0
-putOnTop: SUCCESS
 addCostumer: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-isMember: False
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=70, hight=0
-addPrize: SUCCESS
-getExpenses: -3523
-putOnTop: SUCCESS
-getPlace: column=58, hight=0
-addPrize: SUCCESS
-makeMember: SUCCESS
-makeMember: SUCCESS
-getPlace: column=28, hight=0
-makeMember: SUCCESS
 addCostumer: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -3221
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -3523
-buyRecord: SUCCESS
-getPlace: column=61, hight=0
-addCostumer: ALREADY_EXISTS
-makeMember: SUCCESS
-makeMember: SUCCESS
-getExpenses: -1267
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=26, hight=0
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-getExpenses: -3347
-putOnTop: SUCCESS
-getExpenses: 100
-makeMember: SUCCESS
-getExpenses: -3523
-addCostumer: ALREADY_EXISTS
-addCostumer: SUCCESS
-addPrize: SUCCESS
-getExpenses: -2733
-getExpenses: -3523
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-addPrize: SUCCESS
-getExpenses: -3675
-getExpenses: -3499
-makeMember: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
-addCostumer: SUCCESS
-buyRecord: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=18, hight=129
-buyRecord: SUCCESS
-addPrize: SUCCESS
+getPlace: column=6, hight=105
+putOnTop: FAILURE
 putOnTop: FAILURE
 buyRecord: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
 putOnTop: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+getPlace: column=6, hight=691
+makeMember: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
+getExpenses: -2574
+getExpenses: 201
+getExpenses: 101
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=6, hight=1085
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -528
+getPlace: column=6, hight=995
+addCostumer: ALREADY_EXISTS
+putOnTop: FAILURE
+getExpenses: -4592
+getPlace: column=6, hight=1037
+buyRecord: SUCCESS
+putOnTop: FAILURE
+putOnTop: FAILURE
+addPrize: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+getPlace: column=6, hight=476
+addPrize: SUCCESS
+getPlace: column=1, hight=0
+putOnTop: DOESNT_EXISTS
+getExpenses: -5714
+getPlace: column=6, hight=396
+buyRecord: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+putOnTop: FAILURE
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -4527
+getPlace: column=6, hight=1180
+makeMember: SUCCESS
+getExpenses: -7911
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+putOnTop: FAILURE
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getPlace: column=6, hight=0
+addPrize: SUCCESS
+addCostumer: SUCCESS
+addCostumer: ALREADY_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -1969
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=6, hight=245
+getPlace: column=6, hight=245
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getExpenses: -6509
+putOnTop: FAILURE
+putOnTop: SUCCESS
+putOnTop: FAILURE
+getExpenses: 0
+getExpenses: -3631
+addPrize: SUCCESS
+putOnTop: FAILURE
+putOnTop: FAILURE
+getPlace: column=1, hight=790
+getExpenses: -2888
+getExpenses: -6610
+makeMember: SUCCESS
 makeMember: SUCCESS
 newMonth: SUCCESS
-buyRecord: SUCCESS
-addCostumer: ALREADY_EXISTS
-addPrize: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-buyRecord: SUCCESS
 getExpenses: 0
-putOnTop: SUCCESS
-getPlace: column=13, hight=0
-getPlace: column=49, hight=0
+getExpenses: 0
 addPrize: SUCCESS
+addPrize: SUCCESS
+addCostumer: ALREADY_EXISTS
+getPlace: column=24, hight=0
+newMonth: SUCCESS
+getPlace: column=4, hight=0
+addCostumer: SUCCESS
+getPlace: column=6, hight=0
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getExpenses: 0
+makeMember: SUCCESS
+getPlace: column=6, hight=0
+addCostumer: SUCCESS
+getPlace: column=5, hight=74
+getPlace: column=5, hight=74
+getPlace: column=4, hight=0
+makeMember: SUCCESS
+getPlace: column=4, hight=0
+addCostumer: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+buyRecord: DOESNT_EXISTS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -411
 getPlace: column=4, hight=0
 addPrize: SUCCESS
-putOnTop: SUCCESS
-getExpenses: 0
+addCostumer: ALREADY_EXISTS
 addPrize: SUCCESS
-buyRecord: SUCCESS
+getPlace: column=6, hight=21
+addPrize: SUCCESS
+getPlace: column=0, hight=0
+getExpenses: -944
+getExpenses: -2666
+putOnTop: DOESNT_EXISTS
+putOnTop: FAILURE
+addPrize: SUCCESS
+getExpenses: -533
+getExpenses: -659
+getPlace: column=6, hight=21
 buyRecord: SUCCESS
 addCostumer: SUCCESS
-buyRecord: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=56, hight=0
-buyRecord: SUCCESS
-putOnTop: SUCCESS
+getPlace: column=4, hight=0
+getExpenses: -533
+getPlace: column=4, hight=0
+getExpenses: -944
+getExpenses: -944
+getPlace: column=4, hight=0
 addPrize: SUCCESS
-addPrize: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -2033
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-putOnTop: SUCCESS
-getPlace: column=39, hight=20
-putOnTop: SUCCESS
-buyRecord: SUCCESS
+getExpenses: -533
+putOnTop: DOESNT_EXISTS
+getExpenses: -1901
+putOnTop: DOESNT_EXISTS
+putOnTop: DOESNT_EXISTS
+putOnTop: DOESNT_EXISTS
+buyRecord: DOESNT_EXISTS
+getPlace: DOESNT_EXISTS
 getPlace: column=6, hight=0
 putOnTop: SUCCESS
-getExpenses: -149
-getExpenses: -2495
-getExpenses: -253
-addPrize: INVALID_INPUT
-putOnTop: SUCCESS
-getExpenses: -848
-getPlace: column=31, hight=0
-addPrize: SUCCESS
-putOnTop: SUCCESS
 buyRecord: SUCCESS
+getExpenses: -1901
+getExpenses: -2666
 addPrize: SUCCESS
-getPlace: column=7, hight=0
-getExpenses: -422
-buyRecord: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
 addPrize: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -1644
-putOnTop: SUCCESS
+makeMember: SUCCESS
+getPlace: column=4, hight=154
+getExpenses: DOESNT_EXISTS
+getPlace: column=4, hight=0
+putOnTop: DOESNT_EXISTS
+addPrize: SUCCESS
+putOnTop: FAILURE
+isMember: True
+putOnTop: DOESNT_EXISTS
+addCostumer: SUCCESS
+putOnTop: FAILURE
+addPrize: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+putOnTop: DOESNT_EXISTS
+putOnTop: FAILURE
 getPlace: DOESNT_EXISTS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
+putOnTop: FAILURE
+newMonth: SUCCESS
+addPrize: SUCCESS
 putOnTop: SUCCESS
 putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+putOnTop: FAILURE
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+isMember: False
+makeMember: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+getExpenses: -998
+getExpenses: DOESNT_EXISTS
+addCostumer: SUCCESS
+getExpenses: -998
+addCostumer: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
 makeMember: SUCCESS
 getExpenses: 0
-getPlace: column=8, hight=0
+getPlace: column=21, hight=0
+putOnTop: FAILURE
+getPlace: column=47, hight=0
+buyRecord: SUCCESS
+getPlace: column=11, hight=0
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=33, hight=0
+putOnTop: SUCCESS
 addPrize: SUCCESS
 addPrize: SUCCESS
-getExpenses: -1744
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+newMonth: SUCCESS
+makeMember: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: 0
+makeMember: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+putOnTop: FAILURE
+addCostumer: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+getExpenses: 0
+makeMember: SUCCESS
+getExpenses: 0
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=37, hight=0
+putOnTop: SUCCESS
+addPrize: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+getPlace: column=59, hight=0
+newMonth: SUCCESS
+addPrize: SUCCESS
 putOnTop: SUCCESS
 buyRecord: SUCCESS
 putOnTop: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+getExpenses: 0
+makeMember: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+getPlace: column=18, hight=0
 buyRecord: SUCCESS
 putOnTop: SUCCESS
+getExpenses: -727
+getPlace: column=18, hight=0
+buyRecord: SUCCESS
+getPlace: column=15, hight=0
+buyRecord: SUCCESS
+getPlace: column=3, hight=0
+getExpenses: DOESNT_EXISTS
+addCostumer: SUCCESS
+getExpenses: -419
+buyRecord: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=24, hight=0
+getPlace: column=13, hight=0
+getExpenses: 0
+buyRecord: DOESNT_EXISTS
+addCostumer: ALREADY_EXISTS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=39, hight=0
+makeMember: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=3, hight=2
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: DOESNT_EXISTS
+putOnTop: SUCCESS
+getPlace: column=10, hight=0
 buyRecord: SUCCESS
 buyRecord: SUCCESS
 addCostumer: SUCCESS
+getExpenses: -983
+getPlace: column=30, hight=0
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+makeMember: DOESNT_EXISTS
+addPrize: SUCCESS
+getPlace: column=8, hight=0
+putOnTop: SUCCESS
+getExpenses: -1571
+getExpenses: -983
+buyRecord: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: -1332
+buyRecord: SUCCESS
+getPlace: column=32, hight=92
+buyRecord: SUCCESS
+getExpenses: -783
+buyRecord: SUCCESS
+getExpenses: -983
+getPlace: column=26, hight=0
+getPlace: column=32, hight=94
+addCostumer: SUCCESS
+getExpenses: -1727
 putOnTop: SUCCESS
 buyRecord: SUCCESS
-getPlace: column=43, hight=87
+getPlace: column=2, hight=0
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: -2631
+buyRecord: SUCCESS
+getPlace: column=14, hight=80
+putOnTop: SUCCESS
+getPlace: column=10, hight=223
+putOnTop: SUCCESS
+getExpenses: -783
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=26, hight=0
+getPlace: column=10, hight=376
+addCostumer: SUCCESS
+getExpenses: -989
+addCostumer: SUCCESS
+getExpenses: -2041
+getPlace: column=2, hight=0
+getPlace: column=8, hight=0
+addCostumer: SUCCESS
+getExpenses: -989
+addPrize: SUCCESS
+addCostumer: SUCCESS
+putOnTop: FAILURE
+addPrize: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+getExpenses: -3139
+getPlace: column=29, hight=224
+putOnTop: DOESNT_EXISTS
+getExpenses: DOESNT_EXISTS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=35, hight=0
+addPrize: SUCCESS
+putOnTop: DOESNT_EXISTS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getExpenses: -1232
+getExpenses: -4343
+addCostumer: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+getExpenses: -3977
+getPlace: column=11, hight=214
+addCostumer: SUCCESS
+getPlace: column=11, hight=768
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=11, hight=63
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getExpenses: -6147
+addPrize: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -6368
+getExpenses: -5685
+getExpenses: -3309
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -2171
+putOnTop: SUCCESS
+newMonth: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+addPrize: INVALID_INPUT
+buyRecord: SUCCESS
 getExpenses: 0
 putOnTop: SUCCESS
-getPlace: column=36, hight=53
+addPrize: SUCCESS
 putOnTop: SUCCESS
-getExpenses: -1643
+getPlace: column=79, hight=0
+addCostumer: ALREADY_EXISTS
+getPlace: column=3, hight=0
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=58, hight=0
+getExpenses: 0
+getExpenses: 0
+getExpenses: 0
+addPrize: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
 putOnTop: SUCCESS
-isMember: True
 makeMember: SUCCESS
-getExpenses: -1095
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=9, hight=0
+getPlace: column=75, hight=0
+getPlace: column=24, hight=0
+addPrize: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=80, hight=108
+addCostumer: SUCCESS
+getPlace: column=8, hight=0
+addCostumer: SUCCESS
+makeMember: SUCCESS
+getPlace: DOESNT_EXISTS
+addCostumer: SUCCESS
+getPlace: column=28, hight=0
+putOnTop: SUCCESS
+putOnTop: DOESNT_EXISTS
+getExpenses: 0
+buyRecord: SUCCESS
+getPlace: column=64, hight=0
+buyRecord: SUCCESS
 buyRecord: SUCCESS
 addPrize: SUCCESS
-getExpenses: -1199
+makeMember: SUCCESS
+makeMember: SUCCESS
+getPlace: column=69, hight=0
+makeMember: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getExpenses: 0
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -943
+putOnTop: FAILURE
+getPlace: column=33, hight=0
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=25, hight=41
+addPrize: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
 putOnTop: SUCCESS
 addPrize: SUCCESS
+getPlace: column=4, hight=73
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: FAILURE
+makeMember: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=75, hight=45
+isMember: True
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=64, hight=0
+makeMember: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getExpenses: 0
+addPrize: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getExpenses: 0
+buyRecord: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=46, hight=0
+buyRecord: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=52, hight=0
+getPlace: column=5, hight=0
+addCostumer: ALREADY_EXISTS
+getExpenses: 0
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+getExpenses: -2605
+getPlace: column=22, hight=18
+newMonth: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
 putOnTop: SUCCESS
 makeMember: SUCCESS
 getExpenses: DOESNT_EXISTS
-getExpenses: -410
+getExpenses: 0
+addPrize: SUCCESS
 putOnTop: SUCCESS
-getExpenses: -832
+getPlace: column=66, hight=0
+putOnTop: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: 0
+getExpenses: 0
+buyRecord: SUCCESS
+getExpenses: 0
+addPrize: SUCCESS
+getExpenses: -988
+addPrize: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getPlace: column=64, hight=0
+getExpenses: 0
+buyRecord: SUCCESS
+getExpenses: -988
+getPlace: column=32, hight=0
+getExpenses: -988
+putOnTop: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+getExpenses: -347
+addPrize: SUCCESS
+getPlace: column=15, hight=0
+addPrize: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=67, hight=0
+getExpenses: 0
+makeMember: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getPlace: column=68, hight=0
+addPrize: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+getPlace: column=77, hight=0
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+addCostumer: ALREADY_EXISTS
+getExpenses: -988
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=23, hight=0
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getPlace: column=42, hight=0
+getPlace: column=50, hight=0
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=23, hight=0
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=51, hight=0
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=37, hight=0
+addCostumer: SUCCESS
+getExpenses: -2041
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -1055
+addPrize: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+getExpenses: -768
+makeMember: SUCCESS
+addCostumer: SUCCESS
+newMonth: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -555
+buyRecord: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+getExpenses: -695
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -555
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+getExpenses: -1921
+getPlace: column=0, hight=0
+putOnTop: SUCCESS
+getExpenses: -555
+addCostumer: SUCCESS
+addPrize: INVALID_INPUT
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+newMonth: SUCCESS
+getPlace: column=21, hight=0
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+getPlace: column=18, hight=0
+putOnTop: SUCCESS
+getPlace: column=9, hight=0
+addPrize: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getExpenses: 100
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
 putOnTop: SUCCESS
 getExpenses: 0
-getExpenses: -2556
-getExpenses: -5101
-getPlace: column=7, hight=85
 putOnTop: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
 addPrize: SUCCESS
-getExpenses: -832
+addCostumer: SUCCESS
+getExpenses: 0
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: DOESNT_EXISTS
+getPlace: column=8, hight=31
+getPlace: column=9, hight=65
+addCostumer: SUCCESS
+getPlace: column=17, hight=47
+putOnTop: SUCCESS
+getPlace: column=14, hight=0
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getExpenses: 0
+makeMember: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+getPhone: 28658
+getExpenses: 0
+putOnTop: FAILURE
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -374
+addCostumer: SUCCESS
+getPlace: column=12, hight=0
+getPlace: column=22, hight=127
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+getPlace: DOESNT_EXISTS
+addCostumer: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=28, hight=0
+addPrize: SUCCESS
 addCostumer: ALREADY_EXISTS
-buyRecord: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-putOnTop: SUCCESS
-addCostumer: SUCCESS
-getPlace: column=57, hight=138
-getExpenses: -2767
-getExpenses: -1890
-addPrize: SUCCESS
 putOnTop: SUCCESS
 buyRecord: SUCCESS
-getExpenses: -1925
-getPlace: column=57, hight=835
-buyRecord: SUCCESS
-addPrize: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-buyRecord: SUCCESS
-makeMember: SUCCESS
-makeMember: SUCCESS
 addCostumer: SUCCESS
 putOnTop: SUCCESS
+addCostumer: SUCCESS
+addPrize: SUCCESS
 putOnTop: SUCCESS
-makeMember: SUCCESS
+addCostumer: SUCCESS
 putOnTop: SUCCESS
+putOnTop: DOESNT_EXISTS
 addPrize: SUCCESS
 addCostumer: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: FAILURE
+putOnTop: FAILURE
+getExpenses: 0
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+getExpenses: -463
+getPlace: column=18, hight=92
+getPlace: column=18, hight=0
+getExpenses: -374
+buyRecord: DOESNT_EXISTS
+addPrize: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+putOnTop: FAILURE
+addPrize: SUCCESS
+addCostumer: SUCCESS
+putOnTop: DOESNT_EXISTS
+makeMember: SUCCESS
+putOnTop: FAILURE
+makeMember: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
 getPhone: DOESNT_EXISTS
-getPlace: column=51, hight=269
-addCostumer: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+makeMember: ALREADY_EXISTS
 buyRecord: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -4890
-getPlace: column=32, hight=0
 makeMember: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -6646
-getExpenses: -6636
-getPlace: column=53, hight=899
-addPrize: SUCCESS
-addPrize: SUCCESS
-putOnTop: SUCCESS
-getExpenses: -2435
-buyRecord: SUCCESS
-getPlace: column=44, hight=1239
-addCostumer: SUCCESS
-getPlace: column=13, hight=0
-putOnTop: SUCCESS
-makeMember: SUCCESS
-addCostumer: SUCCESS
-makeMember: SUCCESS
-addPrize: SUCCESS
-getPlace: column=20, hight=5
-addPrize: SUCCESS
-putOnTop: SUCCESS
-addPrize: SUCCESS
+putOnTop: FAILURE
 addCostumer: SUCCESS
 putOnTop: FAILURE
-getPlace: column=26, hight=0
+putOnTop: FAILURE
+newMonth: SUCCESS
 putOnTop: SUCCESS
 addPrize: SUCCESS
-getExpenses: -3453
-getExpenses: -3162
+makeMember: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=17, hight=0
+getExpenses: 0
+newMonth: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: -578
 addCostumer: SUCCESS
-getExpenses: -2722
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=66, hight=0
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getPlace: column=44, hight=0
+addCostumer: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=0, hight=0
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=28, hight=0
+getPlace: column=37, hight=0
+newMonth: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getExpenses: 0
+addPrize: SUCCESS
+getExpenses: 0
+getPlace: column=9, hight=0
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=1, hight=0
+putOnTop: SUCCESS
+getPlace: column=34, hight=0
+getExpenses: -873
 makeMember: SUCCESS
 addPrize: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+getPlace: column=10, hight=0
+getPlace: column=44, hight=0
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=9, hight=0
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
 makeMember: SUCCESS
+getExpenses: -537
+buyRecord: SUCCESS
+makeMember: SUCCESS
+getExpenses: -637
+getPlace: column=36, hight=0
+buyRecord: SUCCESS
+getPlace: column=0, hight=0
+getExpenses: -631
+makeMember: SUCCESS
+makeMember: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -1328
+getPlace: column=12, hight=0
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+addPrize: INVALID_INPUT
+makeMember: SUCCESS
+getExpenses: -2357
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=22, hight=0
+putOnTop: SUCCESS
+getPlace: column=50, hight=0
+putOnTop: SUCCESS
+getPlace: column=20, hight=0
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+getExpenses: -817
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: -1711
+addPrize: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+getExpenses: -3251
+addPrize: SUCCESS
+addCostumer: ALREADY_EXISTS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -691
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+getExpenses: -1510
+getExpenses: -3251
+putOnTop: SUCCESS
+getPlace: column=31, hight=0
+getPlace: column=10, hight=28
+addCostumer: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=47, hight=213
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: -1762
+makeMember: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=58, hight=0
+getExpenses: -927
+addCostumer: SUCCESS
+getExpenses: -894
+addPrize: SUCCESS
+getPlace: column=6, hight=0
+addPrize: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+putOnTop: FAILURE
+getExpenses: DOESNT_EXISTS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=29, hight=0
+getExpenses: -1189
+getExpenses: -2083
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+getPlace: column=47, hight=241
+putOnTop: SUCCESS
+getPlace: column=6, hight=0
+getExpenses: -3144
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+getExpenses: -2030
+putOnTop: FAILURE
+getExpenses: -1198
+addPrize: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -1983
+addCostumer: SUCCESS
+addPrize: SUCCESS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -2030
+makeMember: SUCCESS
+getPlace: column=19, hight=0
+getPlace: column=3, hight=0
+getExpenses: DOESNT_EXISTS
+buyRecord: SUCCESS
+addPrize: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -5248
+putOnTop: DOESNT_EXISTS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -1012
+addCostumer: ALREADY_EXISTS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+makeMember: SUCCESS
+getExpenses: -2030
+getPlace: column=3, hight=1441
+putOnTop: SUCCESS
+buyRecord: SUCCESS
+addCostumer: ALREADY_EXISTS
+getExpenses: -2554
+getPlace: column=6, hight=0
+addCostumer: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -2814
+addCostumer: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=44, hight=1587
+makeMember: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=13, hight=982
+addPrize: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+addPrize: SUCCESS
+getPlace: column=13, hight=1427
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=13, hight=982
+putOnTop: SUCCESS
+getPlace: column=30, hight=0
+addPrize: SUCCESS
+putOnTop: SUCCESS
+addPrize: SUCCESS
+putOnTop: FAILURE
+putOnTop: DOESNT_EXISTS
+getPlace: column=16, hight=1404
+getExpenses: -2639
+addCostumer: SUCCESS
+isMember: True
+makeMember: SUCCESS
+buyRecord: SUCCESS
+getPlace: column=16, hight=274
+buyRecord: SUCCESS
+getPlace: column=23, hight=284
+getExpenses: -3796
+putOnTop: FAILURE
+getExpenses: -5345
+addPrize: SUCCESS
+makeMember: INVALID_INPUT
+getPlace: column=16, hight=1339
+getExpenses: -811
+addCostumer: SUCCESS
+getPlace: column=23, hight=324
+addPrize: SUCCESS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -5248
+getExpenses: -785
+getPlace: column=16, hight=1144
+putOnTop: SUCCESS
+putOnTop: FAILURE
+getExpenses: -3407
+putOnTop: FAILURE
+buyRecord: SUCCESS
+makeMember: SUCCESS
+addCostumer: SUCCESS
+putOnTop: FAILURE
+getExpenses: -4460
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+makeMember: SUCCESS
+putOnTop: SUCCESS
+getExpenses: -1720
+addCostumer: SUCCESS
+makeMember: SUCCESS
+makeMember: SUCCESS
+putOnTop: FAILURE
+getPlace: column=48, hight=56
+buyRecord: DOESNT_EXISTS
+getExpenses: -2968
+makeMember: SUCCESS
+makeMember: DOESNT_EXISTS
+putOnTop: SUCCESS
+addCostumer: SUCCESS
+getPlace: column=15, hight=2027
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getExpenses: -1513
+getPlace: column=15, hight=1531
+putOnTop: FAILURE
+makeMember: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+makeMember: DOESNT_EXISTS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+getPlace: INVALID_INPUT
+buyRecord: SUCCESS
+putOnTop: SUCCESS
+putOnTop: FAILURE
+putOnTop: SUCCESS
+putOnTop: SUCCESS
+getPlace: column=48, hight=249
+putOnTop: FAILURE
+addCostumer: ALREADY_EXISTS
+putOnTop: FAILURE
+buyRecord: SUCCESS
+buyRecord: SUCCESS
+makeMember: ALREADY_EXISTS
+addPrize: SUCCESS
+putOnTop: SUCCESS
+getExpenses: 0
+buyRecord: SUCCESS
+makeMember: DOESNT_EXISTS
+makeMember: DOESNT_EXISTS
+getExpenses: -989
+getPlace: column=48, hight=1639
+getPlace: column=48, hight=1909
+putOnTop: FAILURE
+putOnTop: FAILURE
+getPlace: column=48, hight=574

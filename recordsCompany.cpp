@@ -5,9 +5,13 @@
 #include "recordsCompany.h"
 #include <iostream>
 
-RecordsCompany::RecordsCompany() : numOfRecords(0) {}
+RecordsCompany::RecordsCompany() : numOfRecords(0), month(nullptr) {}
 
-RecordsCompany::~RecordsCompany() = default;
+RecordsCompany::~RecordsCompany() {
+    if (month) {
+        delete month;
+    }
+}
 
 StatusType RecordsCompany::newMonth(int *records_stocks, int number_of_records) {
     if (number_of_records < 0)
